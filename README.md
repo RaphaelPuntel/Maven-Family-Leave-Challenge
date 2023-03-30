@@ -21,4 +21,6 @@ The dataset's column for paid and unpaid maternity and paternity leave contains 
 # DAX
 
 # Report Presentation
-![imagem](Maven Family Leave Challenge-1.png)
+![Maven Family Leave Challenge-1.png](https://github.com/RaphaelYves/Maven-Family-Leave-Challenge/blob/main/Maven%20Family%20Leave%20Challenge-1.png?raw=true)
+![Maven Family Leave Challenge-2.png](https://github.com/RaphaelYves/Maven-Family-Leave-Challenge/blob/main/Maven%20Family%20Leave%20Challenge-2.png?raw=true)
+![Maven Family Leave Challenge-2.png](https://github.com/RaphaelYves/Maven-Family-Leave-Challenge/blob/main/Maven%20Family%20Leave%20Challenge-3.png?raw=true)
