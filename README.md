@@ -19,6 +19,24 @@ The dashboard design is minimalistic, inviting with the color scheme that convey
 The dataset's column for paid and unpaid maternity and paternity leave contains data type errors, as they are stored as text instead of numerical values, which makes it challenging to interpret the data correctly. To facilitate analysis and ensure accurate representation of the data, we have replaced all "N/A" values with zero.
 
 # DAX
+To calculate and show both number and percentage in chart visual, I first create 2 individual mesures:
+```dax
+M PaidMaternity = SUM(fParental_leave[Paid Maternity Leave])
+```
+```dax
+%MPaid = 
+ VAR percentage = [M PaidMaternity]/[M Total of weeks]
+Return percentage
+```
+
+then, I create another mesure to return and show both results
+```dax
+M Weeks paid = 
+VAR PaidMaternityVAR =[M PaidMaternity]
+VAR percentage = [%MPaid]
+
+Return VALUE(PaidMaternityVAR)&" | "&FORMAT(percentage,"Percent")
+```
 
 # Report Presentation
 ![Maven Family Leave Challenge-1.png](https://github.com/RaphaelYves/Maven-Family-Leave-Challenge/blob/main/Maven%20Family%20Leave%20Challenge-1.png?raw=true)
