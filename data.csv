@@ -1,0 +1,1316 @@
+﻿Industry,SubIndustry,Company,Paid Maternity Leave (weeks),Unpaid Maternity Leave (weeks),Variation (betweem Paid and Unpaid leaves)
+Consumer Packaged Goods, Packaged Products,Scentsy,"52,0",,-1
+Educational Services, College & Universities,University of British Columbia,"52,0","0,0",-1
+Government, County,Spokane County,"52,0","26,0",1
+Information Services, Technology,LeverX,"52,0","0,0",-1
+Insurance, Life,American Income Life,"52,0","0,0",-1
+Insurance, Property & Casualty,Intact Financial Corporation,"52,0","0,0",-1
+Nonprofit, Charity,World Vision,"52,0","0,0",-1
+Nonprofit, Civic & Social,Washburn Center For Children,"52,0","2,0",25
+Technology, Consumer Internet,Cloudworkers,"52,0","0,0",-1
+Technology, Consumer Internet,Netflix,"52,0","0,0",-1
+Technology, Software,Bitdefender,"52,0","52,0",0
+Technology, Software,Dynatrace,"52,0","52,0",0
+Technology, Software,JHC Systems,"52,0","0,0",-1
+Technology, Software,Rangle.io,"52,0","0,0",-1
+Technology, Software,WorkJam,"52,0","0,0",-1
+Transportation, Bus,FlixBus,"52,0","0,0",-1
+Hospitality, Hotels,Intercontinental Hotels Group,"50,0",,-1
+Industrial, Equipment Manufacturing,Bhel,"50,0",,-1
+Government, Federal,Naval Medical Center Portsmouth,"46,0","0,0",-1
+Educational Services, School,Achievement First,"42,0","14,0",2
+Hospitality, Restaurants,Whataburger,"40,0",,-1
+Business Services, Staffing & Outsourcing,Randstad Sourceright,"39,0","13,0",2
+Finance, Asset Management,Trinity Lifetime,"39,0","13,0",2
+Healthcare, Medical Devices,Aquilant,"39,0","13,0",2
+Business Services, Human Resources,ADP UK,"36,0","12,0",2
+Information Services, Diversified,LAC-Group,"32,5","0,0",-1
+Educational Services, E-Learning,Degreed,"32,0","46,0",-0.30434782608695654
+Technology, Software,FreshBooks,"32,0","0,0",-1
+Healthcare, Telemedicine,Flatiron Health,"30,0","15,0",1
+Natural Resources, Metals & Mining,Barrick Gold Corporation,"30,0",,-1
+Services, Other,EasyWayPaper,"30,0","5,0",5
+Technology, Software,Palantir,"30,0","38,0",-0.21052631578947367
+Finance, Personal & Commercial Banking,TIAA Bank,"28,0","0,0",-1
+Retail, General Merchandise,Tesco PLC,"27,0","18,0",0.5
+Business Services, Human Resources,ADP Canada Inc,"26,0","4,0",5.5
+Business Services, Other,Cians Analytics,"26,0","26,0",0
+Business Services, Other,IHS Markit Ltd.,"26,0","13,0",1
+Business Services, Staffing & Outsourcing,WilsonHCG,"26,0","26,0",0
+Consumer Packaged Goods, Beverages,Anheuser-Busch InBev,"26,0","0,0",-1
+Consumer Packaged Goods, Beverages,Beam Suntory,"26,0","0,0",-1
+Consumer Packaged Goods, Packaged Foods,Taylor Company,"26,0","0,0",-1
+Educational Services, College & Universities,Griffith University,"26,0","26,0",0
+Educational Services, Other,British Council,"26,0","0,0",-1
+Educational Services, Other,Texas A&M AgriLife Research,"26,0","0,0",-1
+Finance, Diversified,ASB Bank,"26,0","26,0",0
+Finance, Diversified,Nationwide Building Society,"26,0",,-1
+Information Services, Diversified,Bloomberg,"26,0","0,0",-1
+Information Services, Technology,Eras Tech,"26,0","0,0",-1
+Media, Diversified,Sky PLC,"26,0",,-1
+Natural Resources, Electric & Gas Utility,National Grid plc,"26,0","13,0",1
+Natural Resources, Electric & Gas Utility,NiSource,"26,0","26,0",0
+Natural Resources, Metals & Mining,Freeport-McMoRan,"26,0","0,0",-1
+Nonprofit, Civic & Social,Convergence,"26,0","26,0",0
+Nonprofit, Finance,Financial Ombudsman Service,"26,0","12,0",1.1666666666666665
+Retail, Furniture & Home Improvement,Williams Sonoma,"26,0","8,0",2.25
+Technology, B2B Tech Services,Chartbeat,"26,0","26,0",0
+Technology, B2B Tech Services,Hewlett Packard Enterprise,"26,0","6,0",3.333333333333333
+Technology, B2B Tech Services,Luxoft,"26,0","12,0",1.1666666666666665
+Technology, Consumer Internet,Shopify,"26,0","26,0",0
+Technology, Gaming,Zynga,"26,0","0,0",-1
+Technology, Software,Qualitest Group,"26,0","0,0",-1
+Technology, Software,Salesforce,"26,0","0,0",-1
+Technology, Software,Taboola,"26,0","0,0",-1
+Business Services, Human Resources,ADP India,"25,0","25,0",0
+Services, Other,Essay 4 Students,"25,0","5,0",4
+Technology, Software,Atlassian,"25,0","0,0",-1
+Automotive, Manufacturers,Mercedes-Benz Research & Development North America,"24,0","0,0",-1
+Finance, Diversified,UBS,"24,0","24,0",0
+Government, International,World Health Organization,"24,0","52,0",-0.5384615384615384
+Information Services, Financial,Ipreo Holdings LLC,"24,0","8,0",2
+Natural Resources, Chemicals,"Nalco, An Ecolab Company","24,0","0,0",-1
+Natural Resources, Electric & Gas Utility,GE Power,"24,0","20,0",0.19999999999999996
+Nonprofit, Education,Start Early,"24,0",,-1
+Retail," Shoes, Accessories and Apparel",Lululemon Athletica,"24,0","0,0",-1
+Technology, B2B Tech Services,Tata Consultancy Services,"24,0",,-1
+Technology, Consumer Internet,Dropbox,"24,0","0,0",-1
+Technology, Consumer Internet,Google,"24,0","0,0",-1
+Technology, Consumer Internet,Spotify,"24,0","2,5",8.6
+Technology, Manufacturing,Aruba Networks,"24,0","2,0",11
+Technology, Manufacturing,Lenovo,"24,0","0,0",-1
+Technology, Software,Expeed Software,"24,0","0,0",-1
+Business Services, Other,Ticketmaster,"23,0","12,0",0.9166666666666667
+Technology, Consumer Internet,Booking.com,"22,0","10,5",1.0952380952380953
+Technology, Consumer Internet,Meta,"22,0","0,0",-1
+Consumer Packaged Goods, Packaged Products,Reckitt Benckiser,"21,0","31,0",-0.32258064516129037
+Finance, Personal & Commercial Banking,Union Bank,"21,0","8,0",1.625
+Technology, Consumer Internet,Airbnb,"21,0","2,0",9.5
+Technology, Software,Collibra,"21,0","6,5",2.230769230769231
+Natural Resources, Agriculture and Food Processing,Tate & Lyle,"20,5","13,0",0.5769230769230769
+Business Services, Staffing & Outsourcing,Manpower,"20,0","0,0",-1
+Consumer Packaged Goods, Packaged Foods,"The Dannon Company, Inc.","20,0","0,0",-1
+Finance, Credit & Fund Services,American Express,"20,0","0,0",-1
+Finance, Diversified,Credit Suisse,"20,0","2,0",9
+Finance, Diversified,Goldman Sachs,"20,0","3,0",5.666666666666667
+Finance, Diversified,Standard Chartered,"20,0",,-1
+Finance, Personal & Commercial Banking,CIT,"20,0","8,0",1.5
+Finance, Personal & Commercial Banking,Vanquis Bank,"20,0","26,0",-0.23076923076923073
+Information Services, Technology,NielsenIQ,"20,0","0,0",-1
+Media, Entertainment,Lionsgate,"20,0","0,0",-1
+Media, News,Dow Jones,"20,0","12,0",0.6666666666666667
+Media, News,The New York Times Company,"20,0","20,0",0
+Real Estate, Other,Realtor.com,"20,0","0,0",-1
+Retail," Shoes, Accessories and Apparel",New Balance,"20,0","4,0",4
+Technology, Consumer Internet,Glassdoor,"20,0","0,0",-1
+Technology, Consumer Internet,LinkedIn,"20,0","4,0",4
+Technology, Consumer Internet,Squarespace,"20,0","0,0",-1
+Technology, Consumer Internet,Twitter,"20,0","2,5",7
+Technology, Manufacturing,GlobalFoundries,"20,0","0,0",-1
+Technology, Software,GitHub,"20,0","4,0",4
+Technology, Software,"MongoDB, Inc.","20,0","0,0",-1
+Technology, Software,PandaDoc,"20,0","40,0",-0.5
+Technology, Software,Privitar Ltd,"20,0","13,0",0.5384615384615385
+Technology, Software,ServiceNow,"20,0","0,0",-1
+Technology, Software,Slack Technologies,"20,0","0,0",-1
+Consumer Packaged Goods, Packaged Products,Colgate-Palmolive Company,"19,5","6,0",2.25
+Technology, Consumer Internet,OLX Group,"19,5","26,0",-0.25
+Finance, Diversified,HSBC,"19,0","0,0",-1
+Technology, Software,Addepar,"19,0","0,0",-1
+Information Services, Technology,Google Cloud,"18,5","32,5",-0.4307692307692308
+Consumer Packaged Goods, Packaged Foods,General Mills,"18,0","12,0",0.5
+Consumer Packaged Goods, Toys & Baby Products,Hasbro Inc.,"18,0","18,0",0
+Educational Services, College & Universities,Imperial College London,"18,0","20,0",-0.09999999999999998
+Finance, Asset Management,Gemini Trust Company,"18,0","0,0",-1
+Finance, Diversified,Capital One,"18,0","0,0",-1
+Finance, Diversified,William Blair,"18,0","0,0",-1
+Finance, Venture Capital,"Guggenheim Partners, LLC","18,0",,-1
+Information Services, Financial,S&P Global,"18,0","0,0",-1
+Information Services, Technology,VTS,"18,0","0,0",-1
+Media, News,Washington Post,"18,0","0,0",-1
+Natural Resources, Chemicals,BASF,"18,0",,-1
+Natural Resources, Metals & Mining,BHP Billiton Ltd.,"18,0","34,0",-0.47058823529411764
+Retail, Electronics,Telstra,"18,0","52,0",-0.6538461538461539
+Technology, Consumer Internet,Box,"18,0","1,0",17
+Technology, Consumer Internet,Rally Health,"18,0","0,0",-1
+Technology, Consumer Internet,Spring Health,"18,0","0,0",-1
+Technology, Consumer Internet,Tinder,"18,0","0,0",-1
+Technology, Consumer Internet,Uber,"18,0","0,0",-1
+Technology, Research,Magic Leap,"18,0","0,0",-1
+Technology, Security,RSA,"18,0","0,0",-1
+Technology, Software,Canva,"18,0","23,0",-0.21739130434782605
+Technology, Software,Citrix,"18,0","6,0",2
+Technology, Software,Digit,"18,0","0,0",-1
+Technology, Software,VMware,"18,0","0,0",-1
+Healthcare, Biotechnology,Novozymes,"17,0","0,0",-1
+Information Services, Financial,TransUnion,"17,0","0,0",-1
+Technology, B2B Tech Services,NCR Corporation,"17,0","20,0",-0.15000000000000002
+Technology, Consumer Internet,GoDaddy,"17,0","9,0",0.8888888888888888
+Technology, Software,Adobe Systems,"17,0","15,0",0.1333333333333333
+Technology, Software,MicroStrategy,"17,0","6,0",1.8333333333333335
+Technology, Software,Nutanix,"17,0","0,0",-1
+Finance, Loans,Better Mortgage,"16,5","13,0",0.26923076923076916
+Business Services, Other,Flexport,"16,0","0,0",-1
+Business Services, Technology Solutions,Galois,"16,0","12,0",0.33333333333333326
+Business Services, Technology Solutions,Taulia Inc.,"16,0","8,0",1
+Consumer Packaged Goods, Beverages,Miller Coors,"16,0","34,0",-0.5294117647058824
+Consumer Packaged Goods, Packaged Products,Johnson & Johnson,"16,0","24,0",-0.33333333333333337
+Consumer Packaged Goods, Packaged Products,Unilever,"16,0","4,0",3
+Consumer Packaged Goods, Tobacco,Reynolds American Inc.,"16,0",,-1
+Educational Services, College & Universities,Harvard Business School,"16,0","7,0",1.2857142857142856
+Educational Services, Management,General Assembly,"16,0","4,0",3
+Educational Services, Tutoring,Creative Education Services,"16,0","0,0",-1
+Finance, Asset Management,Apollo Global Management,"16,0",,-1
+Finance, Asset Management,Bain Capital,"16,0",,-1
+Finance, Asset Management,BNY Mellon,"16,0","8,0",1
+Finance, Asset Management,DWS,"16,0","52,0",-0.6923076923076923
+Finance, Asset Management,KKR & Co. LP,"16,0",,-1
+Finance, Asset Management,MFS Investment Management,"16,0","2,0",7
+Finance, Asset Management,The StepStone Group LP,"16,0","4,0",3
+Finance, Asset Management,TIAA,"16,0","0,0",-1
+Finance, Asset Management,TPG Capital,"16,0","0,0",-1
+Finance, Credit & Fund Services,Discover Financial Services,"16,0","0,0",-1
+Finance, Credit & Fund Services,Mastercard,"16,0","0,0",-1
+Finance, Credit Unions,Navy Federal Credit Union,"16,0","0,0",-1
+Finance, Diversified,Bank of America,"16,0","4,0",3
+Finance, Diversified,BNP Paribas,"16,0","0,0",-1
+Finance, Diversified,Citigroup,"16,0","4,0",3
+Finance, Diversified,Deutsche Bank,"16,0","5,0",2.2
+Finance, Diversified,DTCC,"16,0","4,0",3
+Finance, Diversified,Edward Jones,"16,0","3,0",4.333333333333333
+Finance, Diversified,Macquarie Group,"16,0","0,0",-1
+Finance, Diversified,Morgan Stanley,"16,0","0,0",-1
+Finance, Diversified,Nomura,"16,0",,-1
+Finance, Diversified,Raymond James,"16,0","0,0",-1
+Finance, Diversified,Stifel Nicolaus & Co.,"16,0",,-1
+Finance, Diversified,Wells Fargo,"16,0","5,0",2.2
+Finance, Personal & Commercial Banking,Bank of the West,"16,0","12,0",0.33333333333333326
+Finance, Personal & Commercial Banking,SunTrust Banks,"16,0","4,0",3
+Finance, Personal & Commercial Banking,TD Bank,"16,0","13,0",0.23076923076923084
+Hospitality, Restaurants,Restaurant Brands International,"16,0","0,0",-1
+Industrial, Engineering,Equinor,"16,0","2,0",7
+Industrial, Other,McMaster-Carr,"16,0","4,0",3
+Information Services, Diversified,WinBizSolutions,"16,0","0,0",-1
+Information Services, Technology,Avanade,"16,0","1,5",9.666666666666666
+Information Services, Technology,Dataminr,"16,0","0,0",-1
+Information Services, Technology,J2 Global,"16,0","0,0",-1
+Information Services, Technology,Microsoft Azure,"16,0","4,0",3
+Information Services, Technology,Remind,"16,0","0,0",-1
+Information Services, Technology,WP Engine,"16,0","0,0",-1
+Information Services, Technology,Yext,"16,0",,-1
+Insurance, Diversified,Aspen Insurance Holdings Limited,"16,0","0,0",-1
+Insurance, Diversified,Sun Life Financial,"16,0","0,0",-1
+Insurance, Health,Oscar Health,"16,0","0,0",-1
+Insurance, Property & Casualty,Liberty Mutual Insurance,"16,0","0,0",-1
+Media, Diversified,NBCUniversal,"16,0","4,0",3
+Media, News,New York Times,"16,0","16,0",0
+Natural Resources, Chemicals,DuPont,"16,0","12,0",0.33333333333333326
+Natural Resources, Chemicals,Solvay S.A.,"16,0","12,0",0.33333333333333326
+Natural Resources, Electric Power Generation,Exelon Corporation,"16,0","24,0",-0.33333333333333337
+Natural Resources, Oil & Gas,BP,"16,0",,-1
+Natural Resources, Oil & Gas,Shell Oil Company,"16,0","4,0",3
+Nonprofit, Development,Endeavor,"16,0","0,0",-1
+Nonprofit, Research,HopeLab,"16,0","0,0",-1
+Real Estate, Brokers,Redfin,"16,0","4,0",3
+Retail," Shoes, Accessories and Apparel",REI,"16,0","6,0",1.6666666666666665
+Services, Other,International SOS,"16,0","0,0",-1
+Technology, B2B Tech Services,Chronosphere,"16,0","8,0",1
+Technology, B2B Tech Services,"Datto, Inc.","16,0","0,0",-1
+Technology, B2B Tech Services,Elastic,"16,0","0,0",-1
+Technology, B2B Tech Services,MEDITECH,"16,0","0,0",-1
+Technology, B2B Tech Services,Twilio,"16,0","20,0",-0.19999999999999996
+Technology, B2B Tech Services,Wipro,"16,0","8,0",1
+Technology, Consumer Internet,Carsales,"16,0",,-1
+Technology, Consumer Internet,Indeed,"16,0","0,0",-1
+Technology, Consumer Internet,Match,"16,0","0,0",-1
+Technology, Consumer Internet,Postmates,"16,0",,-1
+Technology, Consumer Internet,Reddit,"16,0",,-1
+Technology, Consumer Internet,Stack Overflow,"16,0","0,0",-1
+Technology, Consumer Internet,Vistaprint,"16,0",,-1
+Technology, Gaming,Roblox,"16,0","0,5",31
+Technology, Manufacturing,Ericsson,"16,0","0,0",-1
+Technology, Manufacturing,Juniper Networks,"16,0","46,0",-0.6521739130434783
+Technology, Manufacturing,Roku,"16,0","8,0",1
+Technology, Manufacturing,Seagate Technology,"16,0","0,0",-1
+Technology, Payments,Gusto,"16,0","10,0",0.6000000000000001
+Technology, Payments,Square,"16,0","0,0",-1
+Technology, Security,Tanium,"16,0","0,0",-1
+Technology, Software,Appian,"16,0","0,0",-1
+Technology, Software,FactSet,"16,0","0,0",-1
+Technology, Software,GlossGenius,"16,0","0,0",-1
+Technology, Software,Gong,"16,0","0,0",-1
+Technology, Software,"HubSpot, Inc.","16,0","8,0",1
+Technology, Software,Infor,"16,0","0,0",-1
+Technology, Software,Informatica,"16,0","0,0",-1
+Technology, Software,Klaviyo,"16,0","0,0",-1
+Technology, Software,Maestro,"16,0","0,0",-1
+Technology, Software,Medidata Solutions,"16,0","24,0",-0.33333333333333337
+Technology, Software,Motus LLC,"16,0","0,0",-1
+Technology, Software,NetSuite Inc.,"16,0","47,0",-0.6595744680851063
+Technology, Software,Procore Technologies,"16,0","0,0",-1
+Technology, Software,SmartBear Software,"16,0","0,0",-1
+Technology, Software,Splunk,"16,0","0,0",-1
+Technology, Software,Talkdesk,"16,0",,-1
+Transportation, Couriers & Delivery,Instacart,"16,0","4,0",3
+Transportation, Freight & Logistics,CSX Corporation,"16,0","52,0",-0.6923076923076923
+Transportation, Rail,Virgin Hyperloop One,"16,0","2,0",7
+Technology, Software,"Aware, Inc","15,5","0,0",-1
+Electronics, Manufacturing,iRobot,"15,0","0,0",-1
+Finance, Diversified,Fidelity Investments,"15,0","4,0",2.75
+Healthcare, Biotechnology,SCIEX,"15,0","26,0",-0.42307692307692313
+Information Services, Financial,Dun & Bradstreet,"15,0","20,0",-0.25
+Information Services, Financial,Experian PLC,"15,0","2,5",5
+Information Services, Financial,NASDAQ,"15,0","0,0",-1
+Information Services, Technology,Forrester Research,"15,0","6,0",1.5
+Insurance, Life,Combined Insurance,"15,0","3,0",4
+Nonprofit, Civic & Social,National Partnership for Women & Families,"15,0","0,0",-1
+Nonprofit, Environmental Organization,Natural Resources Defense Council,"15,0","9,0",0.6666666666666667
+Retail," Shoes, Accessories and Apparel",Athleta,"15,0","0,0",-1
+Retail, Supermarket Company,Lowes Foods,"15,0","15,0",0
+Technology, Consumer Internet,ChowNow,"15,0","0,0",-1
+Technology, Consumer Internet,YouTube,"15,0","2,0",6.5
+Technology, Software,Safety Labs Inc,"15,0","0,0",-1
+Business Services, Other,Guild Education,"14,0","0,0",-1
+Business Services, Other,WeWork,"14,0","2,0",6
+Business Services, Technology Solutions,Sprinklr,"14,0","0,0",-1
+Consumer Packaged Goods, Beverages,Molson Coors Brewing Company,"14,0","0,0",-1
+Consumer Packaged Goods, Beverages,Nestle Waters,"14,0","10,0",0.3999999999999999
+Consumer Packaged Goods, Packaged Foods,Nestle,"14,0","26,0",-0.46153846153846156
+Finance, Diversified,Scotiabank,"14,0","3,0",3.666666666666667
+Government, International,OECD,"14,0","0,0",-1
+Healthcare, Diversified,Bupa,"14,0","36,0",-0.6111111111111112
+Healthcare, Medical Devices,ResMed,"14,0","0,0",-1
+Information Services, Technology,LexisNexis,"14,0","0,0",-1
+Natural Resources, Chemicals,Air Liquide,"14,0",,-1
+Real Estate, Other,Bidwells LLP,"14,0","38,0",-0.631578947368421
+Retail," Shoes, Accessories and Apparel","L Brands, Inc.","14,0","0,0",-1
+Technology, B2B Tech Services,Bepress,"14,0","26,0",-0.46153846153846156
+Technology, Consumer Internet,Birchbox,"14,0","0,0",-1
+Technology, Consumer Internet,Groupon,"14,0","0,0",-1
+Technology, Consumer Internet,Justworks,"14,0","2,0",6
+Technology, Consumer Internet,Match Group,"14,0","0,0",-1
+Technology, Consumer Internet,SiriusXM & Pandora,"14,0","0,0",-1
+Technology, Consumer Internet,Yelp,"14,0","0,0",-1
+Technology, Manufacturing,Apple,"14,0","6,0",1.3333333333333335
+Technology, Manufacturing,HP Inc.,"14,0","6,0",1.3333333333333335
+Technology, Manufacturing,Molecular Devices,"14,0","4,0",2.5
+Technology, Manufacturing,Snap Inc.,"14,0","8,0",0.75
+Technology, Software,Ceridian,"14,0","1,0",13
+Technology, Software,Cornerstone OnDemand,"14,0","0,0",-1
+Technology, Software,"iCIMS, Inc.","14,0","30,0",-0.5333333333333333
+Technology, Software,Intellimize,"14,0","0,0",-1
+Technology, Software,Patron Technology,"14,0","8,0",0.75
+Technology, Software,Rosetta Stone,"14,0","0,0",-1
+Technology, Software,TIBCO Software,"14,0","10,0",0.3999999999999999
+Technology, Software,Zapier,"14,0","0,0",-1
+Business Services, Other,UL LLC,"13,5","15,5",-0.12903225806451613
+Business Services, Other,Brabo Payroll,"13,0","13,0",0
+Educational Services, College & Universities,UCLA,"13,0","9,0",0.4444444444444444
+Finance, Personal & Commercial Banking,U.S. Bank,"13,0","0,0",-1
+Government, County,Marion County Sheriff's Office,"13,0","20,0",-0.35
+Information Services, Diversified,RELX Group,"13,0","20,0",-0.35
+Insurance, Diversified,Sana Benefits,"13,0","13,0",0
+Insurance, Life,National Benefit Life Insurance,"13,0","15,0",-0.1333333333333333
+Natural Resources, Electric Power Generation,Duke Energy,"13,0","1,5",7.666666666666666
+Real Estate, Brokers,Keller Williams Realty,"13,0","0,0",-1
+Services, Other,Terminix,"13,0","6,5",1
+Technology, Financial Services,Funding Circle,"13,0",,-1
+Technology, Manufacturing,Cisco,"13,0","2,0",5.5
+Technology, Payments,Currencycloud,"13,0","0,0",-1
+Technology, Payments,PayPal,"13,0","3,0",3.333333333333333
+Technology, Payments,VISA,"13,0","8,0",0.625
+Technology, Software,AppDynamics,"13,0","0,0",-1
+Technology, Software,NexJ Systems Inc.,"13,0","52,0",-0.75
+Educational Services, College & Universities,Weill Cornell Medicine,"12,5",,-1
+Finance, Diversified,JPMorgan Chase,"12,5","0,0",-1
+Advertising, Market Research,eMarketer,"12,0","0,0",-1
+Advertising, Market Research,Hanover Research,"12,0","6,0",1
+Automotive, Manufacturers,Ford Motor Company,"12,0","0,0",-1
+Automotive, Manufacturers,General Motors,"12,0","12,0",0
+Automotive, Parts Manufacturing,Michelin,"12,0","0,0",-1
+Business Services, Food & Hospitality,Cintas Corporation,"12,0","12,0",0
+Business Services, Other,Cardlytics,"12,0","0,0",-1
+Business Services, Other,EveryDay Labs,"12,0","0,0",-1
+Business Services, Other,LGC Standards,"12,0","0,0",-1
+Business Services, Other,Moody's Analytics,"12,0","0,0",-1
+Business Services, Other,Nuclear Energy Institute,"12,0","0,0",-1
+Business Services, Other,The Larkin Company,"12,0","12,0",0
+Business Services, Staffing & Outsourcing,Adecco Group North America,"12,0","6,0",1
+Business Services, Staffing & Outsourcing,Caastle,"12,0","4,0",2
+Business Services, Staffing & Outsourcing,Daversa Partners,"12,0","0,0",-1
+Business Services, Staffing & Outsourcing,Populus Group,"12,0","12,0",0
+Business Services, Staffing & Outsourcing,Search Solution Group,"12,0","6,0",1
+Business Services, Technology Solutions,Bazaarvoice,"12,0","0,0",-1
+Business Services, Technology Solutions,CareDox,"12,0","1,0",11
+Business Services, Technology Solutions,Thoughtworks,"12,0","0,0",-1
+Business Services, Technology Solutions,TodayTix,"12,0","0,0",-1
+Consumer Packaged Goods, Beverages,Campari America,"12,0",,-1
+Consumer Packaged Goods, Beverages,Pernod Ricard,"12,0","0,0",-1
+Consumer Packaged Goods, Beverages,The Coca-Cola Company,"12,0","0,0",-1
+Consumer Packaged Goods, Packaged Foods,Impossible Foods,"12,0","17,0",-0.2941176470588235
+Consumer Packaged Goods, Packaged Foods,WellPet LLC,"12,0","12,0",0
+Consumer Packaged Goods, Packaged Products,Elanco Animal Health,"12,0","12,0",0
+Consumer Packaged Goods, Packaged Products,Procter & Gamble,"12,0","2,0",5
+Consumer Packaged Goods, Packaged Products,Yankee Candle,"12,0",,-1
+Educational Services, College & Universities,Capella University,"12,0","4,0",2
+Educational Services, College & Universities,Dickinson College,"12,0",,-1
+Educational Services, College & Universities,Harvard University,"12,0","12,0",0
+Educational Services, College & Universities,Lasell College,"12,0","0,0",-1
+Educational Services, College & Universities,New York University,"12,0","0,0",-1
+Educational Services, College & Universities,The Ohio State University,"12,0","12,0",0
+Educational Services, College & Universities,Tufts University,"12,0","4,0",2
+Educational Services, College & Universities,University at Buffalo,"12,0","12,0",0
+Educational Services, College & Universities,University of California Berkeley,"12,0","12,0",0
+Educational Services, College & Universities,University of Massachusetts Amherst,"12,0","24,0",-0.5
+Educational Services, College & Universities,University of Michigan,"12,0","12,0",0
+Educational Services, College & Universities,University of New Hampshire,"12,0","0,0",-1
+Educational Services, College & Universities,University of Notre Dame,"12,0","12,0",0
+Educational Services, E-Learning,Cengage Learning,"12,0","0,0",-1
+Educational Services, E-Learning,Clever,"12,0","0,0",-1
+Educational Services, E-Learning,Soomo Learning,"12,0","0,0",-1
+Educational Services, E-Learning,Zearn,"12,0","4,0",2
+Educational Services, Management,CIEE,"12,0","12,0",0
+Educational Services, Management,Prince William County Public Schools,"12,0","12,0",0
+Educational Services, School,Curtis Institute of Music,"12,0",,-1
+Educational Services, School,Humble Independent School District,"12,0","0,0",-1
+Educational Services, School,The Meadowbrook School of Weston,"12,0","0,0",-1
+Electronics, Manufacturing,Bose,"12,0","12,0",0
+Electronics, Manufacturing,Harman International Industries,"12,0","0,0",-1
+Electronics, Manufacturing,Legrand,"12,0","2,0",5
+Electronics, Manufacturing,Radar,"12,0","0,0",-1
+Finance, Asset Management,Acorns,"12,0","2,0",5
+Finance, Asset Management,AllianceBernstein LP,"12,0","0,0",-1
+Finance, Asset Management,Capital Group,"12,0","0,0",-1
+Finance, Asset Management,Citadel,"12,0","0,0",-1
+Finance, Asset Management,Invesco,"12,0","3,0",3
+Finance, Asset Management,PIMCO,"12,0","12,0",0
+Finance, Credit & Fund Services,American Honda Finance Corp,"12,0","5,0",1.4
+Finance, Diversified,Ally Financial,"12,0","0,0",-1
+Finance, Diversified,Ameriprise Financial,"12,0","4,0",2
+Finance, Diversified,Andrew Davidson & Co,"12,0","0,0",-1
+Finance, Diversified,BBVA,"12,0","0,0",-1
+Finance, Diversified,CME Group,"12,0",,-1
+Finance, Diversified,Digistream Investigations,"12,0","12,0",0
+Finance, Diversified,Geller & Company,"12,0","0,0",-1
+Finance, Diversified,JMP Group LLC,"12,0","0,0",-1
+Finance, Diversified,Kasasa by BancVue,"12,0","0,0",-1
+Finance, Diversified,Securian Financial Group Inc.,"12,0","0,0",-1
+Finance, Diversified,Silicon Valley Bank,"12,0","0,0",-1
+Finance, Diversified,USAA,"12,0","2,0",5
+Finance, Life,Northwestern Mutual � Corporate Careers,"12,0","1,0",11
+Finance, Personal & Commercial Banking,ANZ,"12,0","52,0",-0.7692307692307692
+Finance, Personal & Commercial Banking,BMO Harris Bank,"12,0","12,0",0
+Finance, Personal & Commercial Banking,Citizens Bank,"12,0","0,0",-1
+Finance, Personal & Commercial Banking,Commonwealth Bank of Australia,"12,0","52,0",-0.7692307692307692
+Finance, Personal & Commercial Banking,Federal Home Loan Bank Of New York,"12,0","0,0",-1
+Finance, Personal & Commercial Banking,First Republic Bank,"12,0","0,0",-1
+Finance, Personal & Commercial Banking,KeyBank,"12,0","6,0",1
+Finance, Personal & Commercial Banking,M&T Bank Corporation,"12,0","12,0",0
+Finance, Personal & Commercial Banking,PNC Financial Services Group,"12,0","0,0",-1
+Finance, Personal & Commercial Banking,Soci�t� G�n�rale,"12,0","0,0",-1
+Finance, Personal & Commercial Banking,Stanbic IBTC Bank,"12,0","4,0",2
+Finance, Venture Capital,"Adams Street Partners, LLC","12,0","2,0",5
+Government, City,New York City,"12,0","4,0",2
+Government, County,"Multnomah County, Oregon","12,0","0,0",-1
+Government, Federal,Federal Deposit Insurance Corporation,"12,0","12,0",0
+Government, Federal,Federal Public Defender,"12,0","0,0",-1
+Government, Federal,Federal Reserve Bank of Chicago,"12,0","0,0",-1
+Government, Federal,NASA Jet Propulsion Laboratory,"12,0","0,0",-1
+Government, Federal,The United States Air Force,"12,0","0,0",-1
+Government, Federal,United States Trade and Development Agency,"12,0","0,0",-1
+Government, State,DBPR,"12,0","0,0",-1
+Government, State,State of North Carolina,"12,0","0,0",-1
+Healthcare, Biotechnology,Biogen,"12,0","6,0",1
+Healthcare, Biotechnology,bioMerieux,"12,0","0,0",-1
+Healthcare, Biotechnology,Bolt Threads,"12,0","0,0",-1
+Healthcare, Biotechnology,Genentech,"12,0","0,0",-1
+Healthcare, Biotechnology,"Gilead Sciences, Inc.","12,0","6,0",1
+Healthcare, Biotechnology,Idexx Laboratories,"12,0","8,0",0.5
+Healthcare, Biotechnology,NanoString Technologies,"12,0","0,0",-1
+Healthcare, Family Care,Inspire Wellness,"12,0","6,0",1
+Healthcare, Family Care,Southwest Idaho Treatment Center,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,Baptist Health System,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,Carbon Health,"12,0",,-1
+Healthcare, Hospitals & Clinics,Central Maine Medical Center,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,Cincinnati Children's Hospital Medical Center,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,Everett Clinic,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,MetroHealth Medical Center,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,New Century Health,"12,0","0,0",-1
+Healthcare, Hospitals & Clinics,New York State Psychiatric Institute,"12,0","0,0",-1
+Healthcare, Medical Devices,BD,"12,0","4,0",2
+Healthcare, Medical Devices,Boston Scientific,"12,0","0,0",-1
+Healthcare, Medical Devices,Hillrom,"12,0","4,0",2
+Healthcare, Medical Devices,Medela,"12,0","0,0",-1
+Healthcare, Medical Devices,Medtronic,"12,0","2,0",5
+Healthcare, Medical Devices,Stryker Corporation,"12,0","2,0",5
+Healthcare, Services,GE Healthcare Systems,"12,0","4,0",2
+Healthcare, Services,McKesson Specialty Health,"12,0","4,0",2
+Hospitality, Hotels,Choice Hotels,"12,0","0,0",-1
+Hospitality, Hotels,Hilton,"12,0","6,0",1
+Hospitality, Hotels,Taj Hotels,"12,0","26,0",-0.5384615384615384
+Hospitality, Meal Kit Delivery,Blue Apron,"12,0","0,0",-1
+Hospitality, Restaurants,Chipotle Mexican Grill,"12,0","0,0",-1
+Hospitality, Restaurants,McDonald's,"12,0","12,0",0
+Industrial, Appliances & Furniture,Ergotron,"12,0","6,0",1
+Industrial, Appliances & Furniture,Whirlpool Corporation,"12,0","4,0",2
+Industrial, Architecture & Design,Hickok Cole Architects,"12,0","8,0",0.5
+Industrial, Building Materials Manufacturing,CertainTeed,"12,0","12,0",0
+Industrial, Building Materials Manufacturing,Pella Windows and Doors,"12,0",,-1
+Industrial, Construction Company,Black & Veatch,"12,0",,-1
+Industrial, Construction Company,Graham Construction & Engineering Inc,"12,0","52,0",-0.7692307692307692
+Industrial, Construction Company,Power Home Remodeling,"12,0","0,0",-1
+Industrial, Diversified,"CIRCOR International, Inc.","12,0","12,0",0
+Industrial, Diversified,Eaton,"12,0","0,0",-1
+Industrial, Diversified,Jason Industrial,"12,0","0,0",-1
+Industrial, Engineering,Babcock International Group,"12,0","0,0",-1
+Industrial, Engineering,Emerson Process Management,"12,0","0,0",-1
+Industrial, Engineering,Subsea 7,"12,0","0,0",-1
+Industrial, Equipment Manufacturing,Cummins,"12,0","10,0",0.19999999999999996
+Industrial, Equipment Manufacturing,Emerson Climate Technologies,"12,0",,-1
+Industrial, Equipment Manufacturing,Genie Industries,"12,0","12,0",0
+Industrial, Equipment Manufacturing,Hilti Corporation,"12,0","2,0",5
+Industrial, Equipment Manufacturing,Zoox,"12,0","0,0",-1
+Industrial, Materials,Orica,"12,0","0,0",-1
+Industrial, Materials,W.L. Gore,"12,0","12,0",0
+Information Services, Financial,Fitch Ratings,"12,0","0,0",-1
+Information Services, Legal,Bloomberg BNA,"12,0","10,0",0.19999999999999996
+Information Services, Technology,1010data,"12,0","8,0",0.5
+Information Services, Technology,Cloudreach,"12,0","0,0",-1
+Information Services, Technology,Dell Boomi,"12,0",,-1
+Information Services, Technology,Gartner,"12,0","0,0",-1
+Information Services, Technology,Hitachi Vantara,"12,0","0,0",-1
+Information Services, Technology,Infolock,"12,0","0,0",-1
+Information Services, Technology,LMT Technology Solutions,"12,0","0,0",-1
+Information Services, Technology,Newfold Digital,"12,0","12,0",0
+Information Services, Technology,PatientPop,"12,0","12,0",0
+Information Services, Technology,Publicis Sapient,"12,0","4,0",2
+Information Services, Technology,Siemens Healthineers,"12,0","0,0",-1
+Information Services, Technology,TriNet,"12,0","4,0",2
+Information Services, Technology,ZoomInfo,"12,0","0,0",-1
+Insurance, Diversified,Hiscox,"12,0","0,0",-1
+Insurance, Diversified,IAG Limited,"12,0","40,0",-0.7
+Insurance, Diversified,Lockton Companies Inc.,"12,0","0,0",-1
+Insurance, Diversified,The McGowan Companies Inc.,"12,0","12,0",0
+Insurance, Health,Aetna,"12,0","12,0",0
+Insurance, Health,Cambia Health Solutions,"12,0","0,0",-1
+Insurance, Health,CareSource,"12,0","0,0",-1
+Insurance, Health,Independence Blue Cross,"12,0","7,0",0.7142857142857142
+Insurance, Health,Premera Blue Cross,"12,0","0,0",-1
+Insurance, Health,UCare,"12,0","5,0",1.4
+Insurance, Life,"Genworth Financial, Inc.","12,0","0,0",-1
+Insurance, Life,New York Life Insurance Company,"12,0","12,0",0
+Insurance, Property & Casualty,American Family Insurance,"12,0","2,0",5
+Insurance, Property & Casualty,Farmers Insurance,"12,0","16,0",-0.25
+Insurance, Property & Casualty,Root Insurance,"12,0","0,0",-1
+Media, Diversified,Meredith,"12,0","12,0",0
+Media, Diversified,Thomson Reuters,"12,0","10,0",0.19999999999999996
+Media, Diversified,Townsquare Media,"12,0","0,0",-1
+Media, Entertainment,Madison Square Garden,"12,0","0,0",-1
+Media, Entertainment,Showtime,"12,0","3,0",3
+Media, Magazines,The Atlantic,"12,0","4,0",2
+Media, News,Business Insider,"12,0","0,0",-1
+Media, News,Forbes,"12,0","0,0",-1
+Media, Television,Public Broadcasting Service,"12,0","0,0",-1
+Media, Television,TEGNA,"12,0","12,0",0
+Natural Resources, Agriculture and Food Processing,Cargill,"12,0","0,0",-1
+Natural Resources, Chemicals,AkzoNobel Global,"12,0","12,0",0
+Natural Resources, Chemicals,Dow,"12,0","0,0",-1
+Natural Resources, Chemicals,Nutrien,"12,0","26,0",-0.5384615384615384
+Natural Resources, Electric & Gas Utility,Sempra Energy,"12,0","0,0",-1
+Natural Resources, Electric Power Generation,Pacific Gas and Electric Company,"12,0","26,0",-0.5384615384615384
+Natural Resources, Oil & Gas,Chevron,"12,0","26,0",-0.5384615384615384
+Natural Resources, Oilfield Services,ASRC Energy Services,"12,0","0,0",-1
+Nonprofit, Civic & Social,Enterprise Community Partners,"12,0","0,0",-1
+Nonprofit, Civic & Social,Help USA,"12,0","12,0",0
+Nonprofit, Education,Achievement Network,"12,0","4,0",2
+Nonprofit, Education,Teach for America,"12,0","0,0",-1
+Nonprofit, Education,Wikimedia Foundation,"12,0","5,0",1.4
+Nonprofit, Education,Wildwood Programs,"12,0","0,0",-1
+Nonprofit, Finance,Financial Industry Regulatory Authority,"12,0","0,0",-1
+Nonprofit, Healthcare,Jewish Board of Family and Children's Services,"12,0","0,0",-1
+Nonprofit, Legal,International Justice Mission,"12,0","12,0",0
+Nonprofit, Legal,Legal Aid Society - Employment Law Center,"12,0","52,0",-0.7692307692307692
+Nonprofit, Legal Services,Center for Reproductive Rights,"12,0","4,0",2
+Nonprofit, Libraries,Westbank Community Library,"12,0","0,0",-1
+Nonprofit, Political Organization,The World Economic Forum,"12,0","6,0",1
+Nonprofit, Religious,Archdiocese of Chicago,"12,0","12,0",0
+Nonprofit, Research,Charles Stark Draper Laboratory,"12,0","0,0",-1
+Nonprofit, Research,"Education Development Center, Inc.","12,0","0,0",-1
+Nonprofit, Trade Organization,Silicon Valley Employers Forum,"12,0",,-1
+Real Estate, Brokers,Square Yards,"12,0","13,0",-0.07692307692307687
+Real Estate, Development & Management,Ryan Companies,"12,0","6,0",1
+Real Estate, Development & Management,The Howard Hughes Corporation,"12,0","0,0",-1
+Real Estate, Home Building,David Weekley Homes,"12,0","24,0",-0.5
+Retail, Department Store,Bloomingdale's,"12,0","0,0",-1
+Retail, Department Store,Myer,"12,0","52,0",-0.7692307692307692
+Retail, Department Store,Nordstrom,"12,0","3,0",3
+Retail, Electronics,Best Buy,"12,0","0,0",-1
+Retail, Furniture & Home Improvement,Wayfair,"12,0","2,0",5
+Retail, Online,Zola,"12,0","4,0",2
+Retail," Shoes, Accessories and Apparel",Levi Strauss & Co.,"12,0","21,0",-0.4285714285714286
+Retail," Shoes, Accessories and Apparel",Trunk Club,"12,0","0,0",-1
+Retail, Stationary & Office Supplies,Meredith Digital,"12,0","0,0",-1
+Services, Waste Management,WIN Waste Innovations,"12,0","12,0",0
+Technology, B2B Tech Services,Amazon Web Services,"12,0","5,5",1.1818181818181817
+Technology, B2B Tech Services,Athenahealth,"12,0","0,0",-1
+Technology, B2B Tech Services,Cerner Corporation,"12,0","0,0",-1
+Technology, B2B Tech Services,Impinj,"12,0","0,0",-1
+Technology, B2B Tech Services,Unisys,"12,0","0,0",-1
+Technology, Consumer Internet,Amazon,"12,0","0,0",-1
+Technology, Consumer Internet,AOL,"12,0","12,0",0
+Technology, Consumer Internet,BentoBox,"12,0","0,0",-1
+Technology, Consumer Internet,BlaBlaCar,"12,0","0,0",-1
+Technology, Consumer Internet,Comoto Holdings,"12,0","26,0",-0.5384615384615384
+Technology, Consumer Internet,eBay,"12,0","0,0",-1
+Technology, Consumer Internet,Fairygodboss Inc.,"12,0","0,0",-1
+Technology, Consumer Internet,Freewheel,"12,0","4,0",2
+Technology, Consumer Internet,Genius,"12,0","4,0",2
+Technology, Consumer Internet,Grubhub,"12,0","0,0",-1
+Technology, Consumer Internet,LaunchGood,"12,0","12,0",0
+Technology, Consumer Internet,Lyft,"12,0","18,0",-0.33333333333333337
+Technology, Consumer Internet,MindSumo,"12,0","0,0",-1
+Technology, Consumer Internet,Nerdwallet,"12,0","0,0",-1
+Technology, Consumer Internet,"Noom, inc.","12,0","6,0",1
+Technology, Consumer Internet,Peapod Digital Labs,"12,0","6,0",1
+Technology, Consumer Internet,Zumper,"12,0","0,0",-1
+Technology, Financial Services,Kabbage,"12,0","0,0",-1
+Technology, Gaming,Amazon Games,"12,0","12,0",0
+Technology, Gaming,Zwift,"12,0","6,0",1
+Technology, Manufacturing,Advantest,"12,0","0,0",-1
+Technology, Manufacturing,Cadence Design Systems,"12,0","4,0",2
+Technology, Manufacturing,Cirrus Logic,"12,0","0,0",-1
+Technology, Manufacturing,Dell Technologies,"12,0","0,0",-1
+Technology, Manufacturing,Fujifilm Global,"12,0",,-1
+Technology, Manufacturing,IBM,"12,0","0,0",-1
+Technology, Manufacturing,Itron,"12,0","4,0",2
+Technology, Manufacturing,KLA-Tencor Corporation,"12,0","6,0",1
+Technology, Manufacturing,PlayStation,"12,0",,-1
+Technology, Manufacturing,Texas Instruments,"12,0",,-1
+Technology, Payments,Ingenico Group,"12,0","40,0",-0.7
+Technology, Payments,MineralTree,"12,0","0,0",-1
+Technology, Payments,Pangea Money Transfer,"12,0","0,0",-1
+Technology, Payments,Plastiq,"12,0","6,0",1
+Technology, Payments,Ramp,"12,0","0,0",-1
+Technology, Research,Ginkgo Bioworks,"12,0","0,0",-1
+Technology, Security,Entrust,"12,0","2,0",5
+Technology, Security,Forcepoint,"12,0","3,0",3
+Technology, Security,Trustwave Holdings,"12,0","12,0",0
+Technology, Software,Alkami Technology,"12,0","0,0",-1
+Technology, Software,Alteryx,"12,0","0,0",-1
+Technology, Software,Amplitude,"12,0",,-1
+Technology, Software,Aquicore,"12,0","0,0",-1
+Technology, Software,ArisGlobal,"12,0","4,0",2
+Technology, Software,Automox,"12,0","0,0",-1
+Technology, Software,Avalara,"12,0","15,0",-0.19999999999999996
+Technology, Software,Axon,"12,0","0,0",-1
+Technology, Software,BigCommerce,"12,0","0,0",-1
+Technology, Software,Blackbaud,"12,0","0,0",-1
+Technology, Software,Bullhorn,"12,0","0,0",-1
+Technology, Software,CentralSquare Technologies,"12,0","0,0",-1
+Technology, Software,Cludo,"12,0","0,0",-1
+Technology, Software,ConsenSys,"12,0","12,0",0
+Technology, Software,Convoy,"12,0","16,0",-0.25
+Technology, Software,DISCO,"12,0","0,0",-1
+Technology, Software,Doximity,"12,0","0,0",-1
+Technology, Software,Fusion Risk Management,"12,0","0,0",-1
+Technology, Software,GoodCore Software,"12,0","0,0",-1
+Technology, Software,Higher Logic,"12,0","0,0",-1
+Technology, Software,InsightSquared,"12,0","0,0",-1
+Technology, Software,"Intuit, Inc","12,0","8,0",0.5
+Technology, Software,Khoros,"12,0","3,0",3
+Technology, Software,MaritzCX,"12,0","0,0",-1
+Technology, Software,Medallia,"12,0","2,0",5
+Technology, Software,Microsoft,"12,0","3,0",3
+Technology, Software,Mindbody,"12,0","2,0",5
+Technology, Software,MobileIron,"12,0","16,0",-0.25
+Technology, Software,New Relic,"12,0","6,0",1
+Technology, Software,OfferFit,"12,0","8,0",0.5
+Technology, Software,"Panopto, Inc.","12,0","4,0",2
+Technology, Software,Pegasystems Inc.,"12,0","6,0",1
+Technology, Software,Persistent Systems,"12,0","0,0",-1
+Technology, Software,PhotoShelter,"12,0","0,0",-1
+Technology, Software,Sage,"12,0","0,0",-1
+Technology, Software,SAP,"12,0","3,0",3
+Technology, Software,ServiceTitan,"12,0","11,0",0.09090909090909083
+Technology, Software,Storable,"12,0","0,0",-1
+Technology, Software,Tableau Software,"12,0","0,0",-1
+Technology, Software,Triton Digital,"12,0","0,0",-1
+Technology, Software,UKG,"12,0","0,0",-1
+Technology, Software,Veeva Systems,"12,0","12,0",0
+Technology, Software,WGU Labs,"12,0","12,0",0
+Technology, Software,Workday,"12,0","0,0",-1
+Technology, Software,Workiva,"12,0","8,0",0.5
+Technology, Software,Xandr,"12,0","0,0",-1
+Transportation, Passenger Air,Southwest Airlines,"12,0","12,0",0
+Transportation, Rail,BNSF Logistics,"12,0","0,0",-1
+Transportation, Rental,Enterprise Holdings,"12,0","12,0",0
+Transportation, Rental,"Hertz Global Holdings, Inc.","12,0","0,0",-1
+Finance, Diversified,RBC Wealth Management,"11,5","10,0",0.1499999999999999
+Healthcare, Biotechnology,Thermo Fisher Scientific,"11,5","1,0",10.5
+Retail, Department Store,Macy's,"11,5","6,0",0.9166666666666667
+Electronics, Manufacturing,Trane Technologies,"11,0","0,0",-1
+Finance, Asset Management,Bridgewater Associates,"11,0","29,0",-0.6206896551724138
+Finance, Asset Management,Merrill,"11,0","6,0",0.8333333333333333
+Government, Federal,NavSea,"11,0","6,0",0.8333333333333333
+Government, Federal,U.S. Department of Veterans Affairs,"11,0","11,0",0
+Natural Resources, Oilfield Services,Schlumberger,"11,0","12,0",-0.08333333333333337
+Retail, General Merchandise,Lowe�s Home Improvement,"11,0","0,0",-1
+Retail," Shoes, Accessories and Apparel",DSW,"11,0","0,0",-1
+Technology, B2B Tech Services,Akamai,"11,0","6,0",0.8333333333333333
+Technology, B2B Tech Services,Knowable,"11,0","2,0",4.5
+Technology, Consumer Internet,Angie's List,"11,0","6,0",0.8333333333333333
+Technology, Gaming,Electronic Arts,"11,0","12,0",-0.08333333333333337
+Technology, Software,"Zendesk, Inc","11,0","2,0",4.5
+Business Services, Technology Solutions,Broadridge Financial Solutions Group,"10,5","18,0",-0.41666666666666663
+Industrial, Appliances & Furniture,Steelcase,"10,5","27,5",-0.6181818181818182
+Natural Resources, Electric & Gas Utility,Williams,"10,5","0,0",-1
+Transportation, Passenger Air,American Airlines,"10,5","6,0",0.75
+Business Services, Other,"LOTH, Inc.","10,0","0,0",-1
+Business Services, Technology Solutions,Allied Telecom Group,"10,0","0,0",-1
+Consumer Packaged Goods, Beverages,Ranch Rider Spirits,"10,0","0,0",-1
+Consumer Packaged Goods, Packaged Foods,Campbell Soup Company,"10,0","0,0",-1
+Consumer Packaged Goods, Packaged Products,The Scotts Miracle-Gro Company,"10,0","0,0",-1
+Educational Services, College & Universities,Johns Hopkins University,"10,0","12,0",-0.16666666666666663
+Educational Services, E-Learning,Chegg,"10,0","12,0",-0.16666666666666663
+Finance, Asset Management,Vanguard Group,"10,0","0,0",-1
+Finance, Diversified,Lincoln Financial Group,"10,0","12,0",-0.16666666666666663
+Finance, Diversified,Northern Trust,"10,0","6,0",0.6666666666666667
+Finance, Personal & Commercial Banking,Wintrust Financial Corporation,"10,0","2,0",4
+Healthcare, Medical Devices,Cook Medical,"10,0","6,0",0.6666666666666667
+Healthcare, Medical Devices,Integra LifeSciences,"10,0","12,0",-0.16666666666666663
+Industrial, Diversified,3M,"10,0","10,0",0
+Industrial, Engineering,Pfaudler inc,"10,0","0,0",-1
+Industrial, Equipment Manufacturing,Terex,"10,0","2,0",4
+Information Services, Technology,"DoubleVerify, Inc.","10,0","8,0",0.25
+Information Services, Technology,Surescripts,"10,0","2,0",4
+Information Services, Technology,Verisk Analytics,"10,0","4,0",1.5
+Insurance, Life,Prudential Financial,"10,0","16,0",-0.375
+Insurance, Property & Casualty,GEICO,"10,0","0,0",-1
+Media, Diversified,Viacom Inc.,"10,0","2,5",3
+Natural Resources, Chemicals,Ingevity Corporation,"10,0","1,0",9
+Natural Resources, Diversified Energy,Consolidated Edison Inc.,"10,0","16,0",-0.375
+Nonprofit, Trade Organization,AICPA,"10,0","0,0",-1
+Retail, Department Store,Harrods,"10,0",,-1
+Retail, Discount Store,BJs Wholesale Club,"10,0","2,0",4
+Retail, Other,Uncommon Goods,"10,0","2,0",4
+Retail," Shoes, Accessories and Apparel",LVMH,"10,0",,-1
+Services, Other,Sunrun,"10,0","0,0",-1
+Services, Other,Talent Inc.,"10,0",,-1
+Technology, B2B Tech Services,MediaMath,"10,0","0,0",-1
+Technology, Consumer Internet,CampusLogic,"10,0","0,0",-1
+Technology, Consumer Internet,DoorDash,"10,0","0,0",-1
+Technology, Consumer Internet,Indiegogo,"10,0","10,0",0
+Technology, Consumer Internet,WorkMarket,"10,0","4,0",1.5
+Technology, Financial Services,Enova,"10,0","0,0",-1
+Technology, Security,Coalfire,"10,0","6,0",0.6666666666666667
+Technology, Software,DxMinds Technologies Inc,"10,0","10,0",0
+Technology, Software,Mapbox,"10,0","2,0",4
+Healthcare, Hospitals & Clinics,NYU Langone Health,"9,5","6,0",0.5833333333333333
+Business Services, Other,"BDO USA, LLP","9,0","3,0",2
+Business Services, Staffing & Outsourcing,Recruitics,"9,0","4,0",1.25
+Business Services, Technology Solutions,Paychex,"9,0","3,0",2
+Consumer Packaged Goods, Packaged Foods,Ajinomoto,"9,0","12,0",-0.25
+Educational Services, College & Universities,Northwestern University,"9,0","6,0",0.5
+Educational Services, E-Learning,Renaissance Learning,"9,0","6,0",0.5
+Educational Services, School,Henderson Collegiate,"9,0","3,0",2
+Finance, Personal & Commercial Banking,Fifth Third Bank,"9,0","6,0",0.5
+Government, Federal,United States Department of State,"9,0","15,0",-0.4
+Healthcare, Biotechnology,Charles River Laboratories,"9,0","3,0",2
+Healthcare, Medical Devices,Terumo BCT,"9,0","18,0",-0.5
+Industrial, Equipment Manufacturing,KONE Corporation,"9,0","0,0",-1
+Industrial, Other,Grainger Industrial Supply,"9,0","6,0",0.5
+Information Services, Diversified,Nielsen Holdings N.V.,"9,0","3,0",2
+Information Services, Technology,DXC Technology,"9,0","36,0",-0.75
+Information Services, Technology,SpotX,"9,0","6,0",0.5
+Insurance, Property & Casualty,State Farm,"9,0","0,0",-1
+Media, Diversified,WarnerMedia,"9,0","2,0",3.5
+Natural Resources, Oil & Gas,Phillips 66,"9,0","12,0",-0.25
+Natural Resources, Oil & Gas,Range Resources,"9,0","6,0",0.5
+Real Estate, Development & Management,Cushman & Wakefield,"9,0","0,0",-1
+Retail, Jewelery,Signet Jewelers,"9,0","3,0",2
+Retail, Other,Marshall Retail Group,"9,0","0,0",-1
+Retail," Shoes, Accessories and Apparel",DICK'S Sporting Goods,"9,0","4,0",1.25
+Retail, Supermarket Company,Family Dollar,"9,0","0,0",-1
+Technology, B2B Tech Services,CDK Global,"9,0","25,5",-0.6470588235294117
+Technology, Security,CrowdStrike,"9,0","11,0",-0.18181818181818177
+Technology, Software,Frontline Education,"9,0","3,0",2
+Consumer Packaged Goods, Packaged Products,Nestle Purina PetCare Company,"8,5","0,0",-1
+Educational Services, Other,Pearson,"8,5","8,0",0.0625
+Finance, Diversified,Marsh McLennan,"8,5","8,5",0
+Retail," Shoes, Accessories and Apparel",Luxottica Group SpA,"8,5","6,0",0.41666666666666674
+Automotive, Dealers,Camping World,"8,0","0,0",-1
+Automotive, Parts,Advance Auto Parts,"8,0","4,0",1
+Automotive, Parts Manufacturing,Bridgestone Corporation,"8,0","0,0",-1
+Business Services, Other,Deluxe Corporation,"8,0","0,0",-1
+Business Services, Other,United States Chamber of Commerce,"8,0","12,0",-0.33333333333333337
+Business Services, Technology Solutions,Alight Solutions,"8,0","2,0",3
+Business Services, Technology Solutions,CGI,"8,0","0,0",-1
+Business Services, Technology Solutions,Pitney Bowes,"8,0","0,0",-1
+Consumer Packaged Goods, Beverages,Total Wine & More,"8,0",,-1
+Consumer Packaged Goods, Packaged Foods,Bimbo Bakeries USA,"8,0","24,0",-0.6666666666666667
+Consumer Packaged Goods, Packaged Foods,The J.M. Smucker Company,"8,0","0,0",-1
+Consumer Packaged Goods, Packaged Products,Henkel,"8,0","3,0",1.6666666666666665
+Educational Services, College & Universities,Bard College,"8,0","6,0",0.33333333333333326
+Educational Services, College & Universities,Georgetown University,"8,0","0,0",-1
+Educational Services, College & Universities,Marquette University,"8,0","0,0",-1
+Educational Services, College & Universities,Northeastern University,"8,0","4,0",1
+Educational Services, E-Learning,Skillcrush,"8,0","8,0",0
+Educational Services, Management,NWEA,"8,0","52,0",-0.8461538461538461
+Educational Services, Management,The College Board,"8,0","8,0",0
+Educational Services, Other,The Concord Consortium,"8,0","0,0",-1
+Electronics, Manufacturing,Keysight Technologies,"8,0","52,0",-0.8461538461538461
+Electronics, Manufacturing,Maxim Integrated Products,"8,0","12,0",-0.33333333333333337
+Electronics, Manufacturing,Philips,"8,0","4,0",1
+Finance, Asset Management,"Cantella & Co., Inc.","8,0","0,0",-1
+Finance, Asset Management,Fisher Investments,"8,0","8,0",0
+Finance, Diversified,Charles Schwab,"8,0","6,0",0.33333333333333326
+Finance, Diversified,State Street Corporation,"8,0","2,0",3
+Finance, Loans,OneMain Financial,"8,0","0,0",-1
+Finance, Loans,Veterans United Home Loans,"8,0","0,0",-1
+Government, Federal,Federal Reserve Bank of New York,"8,0","8,0",0
+Government, Federal,NSA,"8,0","6,5",0.23076923076923084
+Healthcare, Diversified,Call9,"8,0","4,0",1
+Healthcare, Hospitals & Clinics,Ascension Health,"8,0","0,0",-1
+Healthcare, Hospitals & Clinics,Bon Secours Mercy Health,"8,0","8,0",0
+Healthcare, Hospitals & Clinics,Johns Hopkins All Children's Hospital,"8,0","0,0",-1
+Healthcare, Hospitals & Clinics,Partners Healthcare,"8,0","4,0",1
+Healthcare, Hospitals & Clinics,Providence,"8,0","12,0",-0.33333333333333337
+Healthcare, Medical Devices,Zimmer Biomet,"8,0","4,0",1
+Healthcare, Products,J&J MedTech,"8,0","0,0",-1
+Healthcare, Products,SmileDirectClub,"8,0","4,0",1
+Healthcare, Services,Optum,"8,0","3,0",1.6666666666666665
+Hospitality, Hotels,Hyatt,"8,0","0,0",-1
+Hospitality, Hotels,Marriott International,"8,0","8,0",0
+Hospitality, Resorts,Disneyland,"8,0","0,0",-1
+Hospitality, Resorts,Great Wolf Resorts,"8,0","0,0",-1
+Hospitality, Resorts,Hilton Grand Vacations,"8,0","8,0",0
+Industrial, Building Materials Manufacturing,Sherwin-Williams,"8,0","4,0",1
+Industrial, Diversified,Danaher,"8,0","6,0",0.33333333333333326
+Industrial, Diversified,Faith Technologies,"8,0","4,0",1
+Information Services, Diversified,Argus Media,"8,0","12,0",-0.33333333333333337
+Information Services, Technology,Macy's Technology,"8,0",,-1
+Information Services, Technology,The Gordian Group,"8,0","12,0",-0.33333333333333337
+Insurance, Diversified,AON,"8,0","8,0",0
+Insurance, Diversified,CUNA Mutual Group,"8,0",,-1
+Insurance, Diversified,MassMutual,"8,0","12,0",-0.33333333333333337
+Insurance, Diversified,"Matrix Absence Management, Inc.","8,0",,-1
+Insurance, Property & Casualty,The Hanover Insurance Group,"8,0","4,0",1
+Insurance, Reinsurance,Guy Carpenter,"8,0","12,0",-0.33333333333333337
+Natural Resources, Electric & Gas Utility,Eversource,"8,0","4,0",1
+Natural Resources, Electric Power Generation,"American Electric Power Company, Inc.","8,0",,-1
+Natural Resources, Electric Power Generation,Southern California Edison,"8,0","12,0",-0.33333333333333337
+Natural Resources, Metals & Mining,Novelis,"8,0","0,0",-1
+Natural Resources, Oil & Gas,ExxonMobil,"8,0","0,0",-1
+Natural Resources, Oil & Gas,Marathon Petroleum Corporation,"8,0","0,0",-1
+Natural Resources, Oilfield Services,Baker Hughes,"8,0","0,0",-1
+Natural Resources, Oilfield Services,Halliburton,"8,0",,-1
+Nonprofit, Environmental Organization,Environmental Defense Fund,"8,0","16,0",-0.5
+Nonprofit, Humanitarian Aid Organization,American Red Cross,"8,0","8,0",0
+Nonprofit, Museums,The Field Museum,"8,0","4,0",1
+Nonprofit, Science & Technology,American Chemical Society,"8,0","12,0",-0.33333333333333337
+Nonprofit, Trade Organization,The Georgia Society of CPAs,"8,0","4,0",1
+Real Estate, Development & Management,HILLS Properties,"8,0","4,0",1
+Real Estate, Investment Trust,PGIM Real Estate,"8,0","4,0",1
+Retail, Convenience Store,Love's,"8,0","6,0",0.33333333333333326
+Retail," Crafts, Fabrics & Party Supplies",Hallmark Cards,"8,0","20,0",-0.6
+Retail," Crafts, Fabrics & Party Supplies",Michaels,"8,0","0,0",-1
+Retail, Department Store,Belk,"8,0","4,0",1
+Retail, Discount Store,Costco,"8,0","2,0",3
+Retail, Discount Store,Dollar General,"8,0","0,0",-1
+Retail, General Merchandise,Kroger,"8,0","4,0",1
+Retail, General Merchandise,Petsmart,"8,0","4,0",1
+Retail," Shoes, Accessories and Apparel",Calvin Klein,"8,0","4,0",1
+Retail," Shoes, Accessories and Apparel",Lands' End,"8,0","4,0",1
+Retail," Shoes, Accessories and Apparel","Reebok International, Ltd.","8,0","8,0",0
+Retail, Supermarket Company,Hy-Vee,"8,0","4,0",1
+Services, Translation,TransPerfect,"8,0","4,0",1
+Services, Waste Management,"Republic Services, Inc.","8,0","0,0",-1
+Technology, B2B Tech Services,Atos,"8,0","0,0",-1
+Technology, B2B Tech Services,Equinix,"8,0","4,0",1
+Technology, B2B Tech Services,Teradata,"8,0","8,0",0
+Technology, Consumer Internet,Offerup,"8,0","8,0",0
+Technology, Financial Services,Jack Henry,"8,0","7,0",0.1428571428571428
+Technology, Manufacturing,Analog Devices,"8,0","3,0",1.6666666666666665
+Technology, Manufacturing,Intel Corporation,"8,0","12,0",-0.33333333333333337
+Technology, Manufacturing,Western Digital,"8,0","0,0",-1
+Technology, Research,Waters Corporation,"8,0","4,0",1
+Technology, Security,Alarm.com,"8,0","0,0",-1
+Technology, Security,Brivo,"8,0","0,0",-1
+Technology, Software,CareValidate,"8,0","0,0",-1
+Technology, Software,Ellevation Education,"8,0","0,0",-1
+Technology, Software,Engrain,"8,0","0,0",-1
+Technology, Software,Flexera Software,"8,0","8,0",0
+Technology, Software,Freshworks,"8,0","2,0",3
+Technology, Software,Lionbridge,"8,0","4,0",1
+Technology, Software,Lithero,"8,0","4,0",1
+Technology, Software,Pexip,"8,0","4,0",1
+Technology, Software,SAS,"8,0","4,0",1
+Technology, Software,"Wrike, Inc.","8,0","8,0",0
+Automotive, Manufacturers,FCA US LLC,"7,5","1,0",6.5
+Insurance, Property & Casualty,Progressive Corporation,"7,5","16,0",-0.53125
+Business Services, Staffing & Outsourcing,"Aerotek, Inc.","7,0","10,0",-0.30000000000000004
+Educational Services, College & Universities,Case Western Reserve University,"7,0","0,0",-1
+Finance, Diversified,Computershare,"7,0","3,5",1
+Industrial, Equipment Manufacturing,ITW,"7,0","0,0",-1
+Insurance, Life,GuardianLife,"7,0","7,0",0
+Natural Resources, Chemicals,Albemarle Corporation,"7,0","5,0",0.3999999999999999
+Nonprofit, Research,The MITRE Corporation,"7,0","0,0",-1
+Real Estate, Development & Management,Transwestern,"7,0",,-1
+Retail, Other,Guitar Center,"7,0","2,0",2.5
+Technology, Software,Dassault Systemes,"7,0","3,0",1.3333333333333335
+Technology, Software,Paylocity,"7,0","5,0",0.3999999999999999
+Business Services, Human Resources,ADP Philippines,"6,5","0,0",-1
+Natural Resources, Chemicals,Ineos,"6,5","9,0",-0.2777777777777778
+Automotive, Manufacturers,Aptiv PLC,"6,0","14,0",-0.5714285714285714
+Automotive, Manufacturers,Toyota North America,"6,0","1,5",3
+Automotive, Parts Manufacturing,Bendix Commercial Vehicle Systems,"6,0","0,0",-1
+Automotive, Parts Manufacturing,Johnson Controls,"6,0","6,0",0
+Business Services, Human Resources,ADP,"6,0","6,0",0
+Business Services, Other,CoStar Group,"6,0","6,0",0
+Business Services, Other,LexisNexis Risk Solutions Group,"6,0","6,0",0
+Business Services, Other,MIC Global Services,"6,0","12,0",-0.5
+Business Services, Other,Samsung Research America,"6,0","0,0",-1
+Business Services, Security,Vivint,"6,0","6,0",0
+Business Services, Staffing & Outsourcing,Beetroot,"6,0","52,0",-0.8846153846153846
+Business Services, Staffing & Outsourcing,MarketStar,"6,0","6,0",0
+Business Services, Staffing & Outsourcing,Robert Half,"6,0","4,0",0.5
+Business Services, Staffing & Outsourcing,TaskUs,"6,0","0,0",-1
+Consumer Packaged Goods, Beverages,PepsiCo,"6,0","6,0",0
+Consumer Packaged Goods, Packaged Foods,"ConAgra Foods, Inc.","6,0","6,0",0
+Consumer Packaged Goods, Packaged Foods,Frito-Lay,"6,0","6,0",0
+Consumer Packaged Goods, Packaged Foods,Lindt & Spr�ngli,"6,0","6,0",0
+Consumer Packaged Goods, Packaged Foods,"Mondelez International, Inc.","6,0","9,5",-0.368421052631579
+Consumer Packaged Goods, Packaged Foods,R. M. Palmer Company,"6,0","18,0",-0.6666666666666667
+Consumer Packaged Goods, Packaged Foods,The Coffee Bean & Tea Leaf,"6,0","0,0",-1
+Consumer Packaged Goods, Tobacco,"Altria Group, Inc.","6,0","0,0",-1
+Consumer Packaged Goods, Toys & Baby Products,Munchkin,"6,0","0,0",-1
+Educational Services, College & Universities,Columbia University,"6,0","12,0",-0.5
+Educational Services, College & Universities,Columbia University Information Technology,"6,0","6,0",0
+Educational Services, College & Universities,Duke University,"6,0","9,0",-0.33333333333333337
+Educational Services, College & Universities,Ferris State University,"6,0","6,0",0
+Educational Services, College & Universities,Florida International University,"6,0","12,0",-0.5
+Educational Services, College & Universities,Indiana University,"6,0","12,0",-0.5
+Educational Services, College & Universities,IUPUI,"6,0","6,0",0
+Educational Services, College & Universities,Medical University of South Carolina,"6,0","6,0",0
+Educational Services, College & Universities,Rice University,"6,0","6,0",0
+Educational Services, College & Universities,Rutgers University,"6,0","12,0",-0.5
+Educational Services, College & Universities,The George Washington University,"6,0","2,0",2
+Educational Services, College & Universities,University of Arizona,"6,0","3,0",1
+Educational Services, College & Universities,University of Minnesota,"6,0","6,0",0
+Educational Services, College & Universities,University of Tampa,"6,0","6,0",0
+Educational Services, College & Universities,Walden University,"6,0","6,0",0
+Educational Services, College & Universities,Webster University,"6,0","6,0",0
+Educational Services, E-Learning,Imagine Learning,"6,0","0,0",-1
+Educational Services, E-Learning,Pluralsight,"6,0","0,0",-1
+Educational Services, Other,"ACT, Inc","6,0","0,0",-1
+Educational Services, Preschool,KinderCare Learning Companies,"6,0","0,0",-1
+Educational Services, School,Cobb County School District,"6,0","12,0",-0.5
+Educational Services, School,IDEA Public Schools,"6,0","6,0",0
+Educational Services, School,Long Trail School,"6,0","0,0",-1
+Educational Services, School,San Francisco Unified School District,"6,0","0,0",-1
+Electronics, Manufacturing,Motorola Solutions,"6,0","7,5",-0.19999999999999996
+Electronics, Manufacturing,Sanmina,"6,0","6,0",0
+Finance, Asset Management,American Century Investments,"6,0","0,0",-1
+Finance, Asset Management,Coller Capital Ltd.,"6,0","12,0",-0.5
+Finance, Asset Management,North Star Resource Group,"6,0","6,0",0
+Finance, Diversified,BB&T Corporation,"6,0","2,0",2
+Finance, Loans,Quicken Loans Inc.,"6,0","1,5",3
+Finance, Personal & Commercial Banking,Santander US,"6,0","6,0",0
+Government, City,City of Virginia Beach,"6,0","0,0",-1
+Government, City,New York City Economic Development Corporation,"6,0","1,0",5
+Government, City,The City of Portland,"6,0","6,0",0
+Government, City,The City of San Antonio,"6,0","6,0",0
+Government, Contractor,Sandia National Laboratories,"6,0","6,0",0
+Government, Federal,U.S. Social Security Administration,"6,0","12,0",-0.5
+Government, Federal,United States Army,"6,0","0,0",-1
+Government, Federal,USAID,"6,0","0,0",-1
+Healthcare, Animal Health,Banfield Pet Hospital,"6,0","12,0",-0.5
+Healthcare, Animal Health,Companion Animal Hospital Partners,"6,0","6,0",0
+Healthcare, Animal Health,Veterinary Emergency Group,"6,0","6,0",0
+Healthcare, Biotechnology,Ambry Genetics,"6,0","0,0",-1
+Healthcare, Biotechnology,Illumina,"6,0","3,0",1
+Healthcare, Biotechnology,Nova Biomedical,"6,0","6,0",0
+Healthcare, Diversified,Saint Francis Medical Center,"6,0","0,0",-1
+Healthcare, Hospitals & Clinics,Christiana Care Health System,"6,0","6,0",0
+Healthcare, Hospitals & Clinics,Duke Health,"6,0","6,0",0
+Healthcare, Hospitals & Clinics,Houston Methodist Hospital,"6,0","6,0",0
+Healthcare, Hospitals & Clinics,Michigan Medicine,"6,0","0,0",-1
+Healthcare, Hospitals & Clinics,Molina Healthcare,"6,0","0,0",-1
+Healthcare, Hospitals & Clinics,Penn Medicine,"6,0","6,0",0
+Healthcare, Laboratory Testing,LabCorp,"6,0","12,0",-0.5
+Healthcare, Laboratory Testing,Quest Diagnostics,"6,0","0,0",-1
+Healthcare, Medical Devices,Aeroflow Healthcare,"6,0","4,0",0.5
+Healthcare, Medical Devices,"Becton, Dickinson and Company","6,0","12,0",-0.5
+Healthcare, Medical Devices,Intuitive,"6,0","6,0",0
+Healthcare, Medical Devices,MicroPort Orthopedics,"6,0","10,0",-0.4
+Healthcare, Services,Be The Match,"6,0","6,0",0
+Healthcare, Services,Heartland Dental,"6,0","12,0",-0.5
+Healthcare, Services,Lumeris,"6,0","0,0",-1
+Hospitality, Restaurants,Chick-fil-A,"6,0",,-1
+Hospitality, Restaurants,Gate Gourmet,"6,0","12,0",-0.5
+Hospitality, Restaurants,La Colombe Torrefaction,"6,0","30,0",-0.8
+Hospitality, Restaurants,Starbucks,"6,0","9,0",-0.33333333333333337
+Hospitality, Restaurants,Texas Roadhouse,"6,0","11,0",-0.4545454545454546
+Hospitality, Restaurants,Waffle House,"6,0",,-1
+Industrial, Architecture & Design,Deborah Berke Partners,"6,0","4,0",0.5
+Industrial, Architecture & Design,HOK,"6,0",,-1
+Industrial, Architecture & Design,MG2,"6,0","6,0",0
+Industrial, Building Materials Manufacturing,Construction Specialties,"6,0","12,0",-0.5
+Industrial, Building Materials Manufacturing,GAF,"6,0","12,0",-0.5
+Industrial, Building Materials Manufacturing,Lehigh Hanson,"6,0","6,0",0
+Industrial, Building Materials Manufacturing,Wilsonart,"6,0","12,0",-0.5
+Industrial, Engineering,Stantec,"6,0","12,0",-0.5
+Industrial, Equipment Manufacturing,AGCO Corporation,"6,0","6,0",0
+Industrial, Equipment Manufacturing,Association of Equipment Manufacturers,"6,0","6,0",0
+Industrial, Equipment Manufacturing,"Atlantic Diving Supply, Inc.","6,0","6,0",0
+Industrial, Equipment Manufacturing,CNH Industrial America,"6,0","6,0",0
+Industrial, Equipment Manufacturing,Kohler Co.,"6,0","6,0",0
+Industrial, Equipment Manufacturing,nVent,"6,0","0,0",-1
+Industrial, Equipment Manufacturing,Rockwell Automation,"6,0","9,0",-0.33333333333333337
+Industrial, Materials,HP Manufacturing,"6,0","6,0",0
+Industrial, Other,Hunter Douglas,"6,0","6,0",0
+Industrial, Other,United Rentals,"6,0","7,5",-0.19999999999999996
+Information Services, Technology,HealthStream,"6,0","12,0",-0.5
+Information Services, Technology,RF Code,"6,0","6,0",0
+Insurance, Brokerage,Hub International,"6,0","4,0",0.5
+Insurance, Diversified,First American,"6,0","12,0",-0.5
+Insurance, Diversified,Trustmark Companies,"6,0","6,0",0
+Insurance, Health,Blue Cross and Blue Shield of Texas,"6,0","0,0",-1
+Insurance, Health,Blue Cross Blue Shield of Alabama,"6,0","6,0",0
+Insurance, Health,CareFirst,"6,0","5,0",0.19999999999999996
+Insurance, Health,CIGNA Corporation,"6,0","4,0",0.5
+Insurance, Health,Clover Health,"6,0","8,0",-0.25
+Insurance, Health,Delta Dental Ins,"6,0","8,0",-0.25
+Insurance, Health,Elevance Health,"6,0",,-1
+Insurance, Health,GoHealth,"6,0","6,0",0
+Insurance, Health,Health Care Service Corporation,"6,0","3,0",1
+Insurance, Health,Highmark Inc.,"6,0","4,0",0.5
+Insurance, Health,Humana,"6,0","6,0",0
+Insurance, Health,WellCare Health Plans,"6,0","6,0",0
+Insurance, Life,Unum,"6,0","23,0",-0.7391304347826086
+Insurance, Property & Casualty,Allstate Insurance Company,"6,0","0,0",-1
+Media, Magazines,Spins,"6,0","0,0",-1
+Media, Television,Sinclair Broadcast Group,"6,0","0,0",-1
+Natural Resources, Agriculture and Food Processing,Pilgrim's Pride,"6,0","0,0",-1
+Natural Resources, Chemicals,"Ashland, Inc.","6,0","18,0",-0.6666666666666667
+Natural Resources, Chemicals,PolyOne Corporation,"6,0","12,0",-0.5
+Natural Resources, Chemicals,Syngenta Flowers,"6,0","0,0",-1
+Natural Resources, Diversified Energy,Entergy Corporation,"6,0","0,0",-1
+Natural Resources, Diversified Energy,"NRG Energy, Inc.","6,0","6,0",0
+Natural Resources, Electric & Gas Utility,Consumers Energy,"6,0","0,0",-1
+Natural Resources, Metals & Mining,Alpha Natural Resources,"6,0",,-1
+Natural Resources, Oil & Gas,"Enbridge, Inc.","6,0","12,0",-0.5
+Natural Resources, Oil & Gas,"T.D. Williamson, Inc.","6,0","6,0",0
+Nonprofit, Charity,Make-A-Wish Foundation,"6,0","12,0",-0.5
+Nonprofit, Charity,The Pew Charitable Trusts,"6,0","6,0",0
+Nonprofit, Civic & Social,AARP,"6,0","6,0",0
+Nonprofit, Environmental Organization,The Nature Conservancy,"6,0","6,0",0
+Nonprofit, Healthcare,Planned Parenthood,"6,0","6,0",0
+Nonprofit, Healthcare,SWOG,"6,0","6,0",0
+Nonprofit, Human Rights Advocacy,Girl Scouts of the USA,"6,0","0,0",-1
+Nonprofit, Legal Services,Legal Aid of North Carolina,"6,0","6,0",0
+Nonprofit, Research,Battelle Memorial Institute,"6,0","0,0",-1
+Nonprofit, Research,RTI International,"6,0","6,0",0
+Real Estate, Development & Management,CBRE,"6,0","1,0",5
+Retail, Department Store,Kohl's,"6,0","9,0",-0.33333333333333337
+Retail, Discount Store,Aldi USA,"6,0","4,0",0.5
+Retail, Discount Store,Ross Stores,"6,0","6,0",0
+Retail, Furniture & Home Improvement,Central Garden & Pet,"6,0","6,0",0
+Retail, Furniture & Home Improvement,Home Depot,"6,0","6,0",0
+Retail, General Merchandise,Tractor Supply Company,"6,0",,-1
+Retail, Liquor,Drizly,"6,0","6,0",0
+Retail, Other,Academy Sports + Outdoors,"6,0","1,0",5
+Retail," Shoes, Accessories and Apparel",ANN Inc.,"6,0","6,0",0
+Retail," Shoes, Accessories and Apparel",Esprit,"6,0","16,0",-0.625
+Retail," Shoes, Accessories and Apparel",Evisons,"6,0","0,0",-1
+Retail," Shoes, Accessories and Apparel",Fossil,"6,0","9,0",-0.33333333333333337
+Retail," Shoes, Accessories and Apparel",Haggar,"6,0","24,0",-0.75
+Retail," Shoes, Accessories and Apparel",Hollister,"6,0","12,0",-0.5
+Retail," Shoes, Accessories and Apparel","Jockey International, Inc.","6,0","6,0",0
+Retail," Shoes, Accessories and Apparel",PVH Corp.,"6,0","4,0",0.5
+Retail," Shoes, Accessories and Apparel",Steve Madden,"6,0",,-1
+Retail," Shoes, Accessories and Apparel",Target,"6,0","6,0",0
+Retail, Stationary & Office Supplies,Office Depot,"6,0","8,0",-0.25
+Retail, Supermarket Company,Ahold Delhaize,"6,0","6,0",0
+Services, Daycare,CozyKin,"6,0","6,0",0
+Services, Waste Management,Waste Connections,"6,0","12,0",-0.5
+Technology, B2B Tech Services,CDW Corporation,"6,0","4,0",0.5
+Technology, B2B Tech Services,Optoro,"6,0","5,0",0.19999999999999996
+Technology, B2B Tech Services,Recurly,"6,0","0,0",-1
+Technology, B2B Tech Services,Volt Information Sciences,"6,0","6,0",0
+Technology, Consumer Internet,CarMax,"6,0","9,0",-0.33333333333333337
+Technology, Financial Services,FIS Global,"6,0","0,0",-1
+Technology, Manufacturing,Markforged,"6,0","12,0",-0.5
+Technology, Manufacturing,National Instruments,"6,0","12,0",-0.5
+Technology, Manufacturing,Siemens Energy,"6,0","4,0",0.5
+Technology, Software,Agilysys,"6,0","0,0",-1
+Technology, Software,Ansys,"6,0","6,0",0
+Technology, Software,"Bentley Systems, Inc.","6,0","6,0",0
+Technology, Software,CallRail,"6,0","12,0",-0.5
+Technology, Software,ClearPoint Strategy,"6,0","0,0",-1
+Technology, Software,Collective Health,"6,0","6,0",0
+Technology, Software,Community Brands,"6,0","12,0",-0.5
+Technology, Software,Conviva,"6,0","6,0",0
+Technology, Software,Esri,"6,0","0,0",-1
+Technology, Software,Fearless,"6,0","3,0",1
+Technology, Software,Hudl,"6,0","0,0",-1
+Technology, Software,Integrity Software,"6,0","46,0",-0.8695652173913043
+Technology, Software,LevaData,"6,0","6,0",0
+Technology, Software,Netskope,"6,0","0,0",-1
+Technology, Software,Nextech,"6,0","6,0",0
+Technology, Software,Pear Therapeutics,"6,0","4,0",0.5
+Technology, Software,Qualtrics,"6,0","12,0",-0.5
+Technology, Software,Screencastify,"6,0","12,0",-0.5
+Technology, Software,Siemens Digital Industries Software,"6,0","11,0",-0.4545454545454546
+Technology, Software,Xactly Corporation,"6,0","6,0",0
+Technology, Software,Xero,"6,0",,-1
+Transportation, Freight & Logistics,Dematic,"6,0","6,0",0
+Transportation, Passenger Air,United Airlines,"6,0","0,0",-1
+Transportation, Rail,Amtrak,"6,0","0,0",-1
+Transportation, Rail,Kansas City Southern,"6,0","6,0",0
+Transportation, Rental,"Avis Budget Group, Inc.","6,0","6,0",0
+Nonprofit, Public Policy,RAND Corporation,"5,5","0,0",-1
+Business Services, Security,Allied Universal,"5,0","21,0",-0.7619047619047619
+Business Services, Staffing & Outsourcing,Cyberbacker PH,"5,0","2,0",1.5
+Business Services, Staffing & Outsourcing,Maxim Healthcare Services,"5,0","0,0",-1
+Business Services, Staffing & Outsourcing,Randstad USA,"5,0","7,0",-0.2857142857142857
+Business Services, Technology Solutions,Paya,"5,0","7,0",-0.2857142857142857
+Educational Services, College & Universities,NYU School of Medicine,"5,0","24,0",-0.7916666666666666
+Healthcare, Hospitals & Clinics,Mayo Clinic,"5,0","6,5",-0.23076923076923073
+Industrial, Architecture & Design,Grimshaw Architects,"5,0","10,0",-0.5
+Industrial, Equipment Manufacturing,Caterpillar,"5,0","6,0",-0.16666666666666663
+Information Services, Technology,Emids,"5,0","0,0",-1
+Insurance, Life,MetLife,"5,0","0,0",-1
+Nonprofit, Charity,Save the Children,"5,0","0,0",-1
+Retail, Supermarket Company,Meijer,"5,0","3,0",0.6666666666666667
+Technology, B2B Tech Services,Iron Mountain,"5,0","9,0",-0.4444444444444444
+Technology, Security,ADT Security Services,"5,0","5,0",0
+Technology, Software,Donnelley Financial Solutions,"5,0","8,0",-0.375
+Transportation, Freight & Logistics,Transplace,"5,0","6,0",-0.16666666666666663
+Insurance, Property & Casualty,The Hartford,"4,5","6,0",-0.25
+Retail, Furniture & Home Improvement,Sleep Number,"4,5","3,0",0.5
+Retail," Shoes, Accessories and Apparel",J.Crew,"4,5","4,0",0.125
+Transportation, Freight & Logistics,Redwood Logistics,"4,5","1,0",3.5
+Advertising, Market Research,AMG Research,"4,0","12,0",-0.6666666666666667
+Automotive, Parts Manufacturing,Continental,"4,0","4,0",0
+Automotive, Products & Services,Valvoline,"4,0","0,0",-1
+Business Services, Other,ACA Compliance Group,"4,0","8,0",-0.5
+Business Services, Staffing & Outsourcing,Hays,"4,0","8,0",-0.5
+Business Services, Staffing & Outsourcing,nFuzion,"4,0","0,0",-1
+Business Services, Technology Solutions,Clever Devices,"4,0","4,0",0
+Educational Services, College & Universities,California State University,"4,0","12,0",-0.6666666666666667
+Educational Services, College & Universities,Utah State University,"4,0",,-1
+Educational Services, College & Universities,Virgina Commonwealth University,"4,0","4,0",0
+Educational Services, College & Universities,Wheaton College,"4,0","0,0",-1
+Educational Services, Management,Santa Fe Public Schools,"4,0","36,0",-0.8888888888888888
+Educational Services, Professional Training,Aperian Global,"4,0","12,0",-0.6666666666666667
+Finance, Diversified,Achieve,"4,0","8,0",-0.5
+Finance, Diversified,First Citizens Bank,"4,0","6,0",-0.33333333333333337
+Finance, Loans,SoFi,"4,0","5,0",-0.19999999999999996
+Finance, Personal & Commercial Banking,Huntington Bank,"4,0","8,0",-0.5
+Government, International,United Nations,"4,0","0,0",-1
+Healthcare, Behavioral,Beacon Health Options,"4,0","6,0",-0.33333333333333337
+Healthcare, Biotechnology,Promega Corporation,"4,0","0,0",-1
+Healthcare, Diversified,CVS Health,"4,0","4,0",0
+Healthcare, Diversified,Fresenius,"4,0","12,0",-0.6666666666666667
+Healthcare, Diversified,Southern Health Partners,"4,0","8,0",-0.5
+Healthcare, Family Care,Landmark Health,"4,0","8,0",-0.5
+Healthcare, Hospitals & Clinics,Mercy,"4,0","1,0",3
+Healthcare, Medical Devices,Olympus Corporation,"4,0","1,0",3
+Healthcare, Services,Cardinal Health,"4,0","9,0",-0.5555555555555556
+Hospitality, Resorts,Vail Resorts,"4,0","2,0",1
+Hospitality, Restaurants,Momofuku,"4,0","8,0",-0.5
+Industrial, Architecture & Design,Perkins + Will,"4,0","0,0",-1
+Industrial, Building Materials Manufacturing,Owens Corning,"4,0","4,0",0
+Industrial, Diversified,Honeywell,"4,0","12,0",-0.6666666666666667
+Industrial, Diversified,Parker Hannifin,"4,0","8,0",-0.5
+Industrial, Engineering,GZA,"4,0","0,0",-1
+Industrial, Engineering,Xylem Inc.,"4,0","0,0",-1
+Industrial, Equipment Manufacturing,BEUMER Group,"4,0","0,0",-1
+Industrial, Materials,"Aleris International, Inc.","4,0","0,0",-1
+Industrial, Materials,Avantor,"4,0","0,0",-1
+Information Services, Technology,NetImpact Strategies,"4,0","12,0",-0.6666666666666667
+Information Services, Technology,Niche,"4,0","12,0",-0.6666666666666667
+Information Services, Technology,OM1,"4,0","0,0",-1
+Information Services, Technology,OPTIMIZERx Corporation,"4,0","8,0",-0.5
+Insurance, Brokerage,Willis Towers Watson,"4,0","12,5",-0.6799999999999999
+Insurance, Diversified,AmeriTrust Group,"4,0","8,0",-0.5
+Insurance, Health,UnitedHealth Group,"4,0","8,0",-0.5
+Insurance, Health,UnitedHealthcare,"4,0","4,0",0
+Insurance, Property & Casualty,"Assurant, Inc.","4,0","2,0",1
+Insurance, Property & Casualty,FM Global,"4,0","2,0",1
+Media, Diversified,Cond� Nast,"4,0","0,0",-1
+Media, Diversified,ViacomCBS,"4,0","6,0",-0.33333333333333337
+Media, Diversified,WGBH,"4,0","12,0",-0.6666666666666667
+Natural Resources, Chemicals,"Air Products & Chemicals, Inc.","4,0","8,0",-0.5
+Natural Resources, Chemicals,Eastman Chemical Company,"4,0","6,0",-0.33333333333333337
+Nonprofit, Healthcare,Harvard Pilgrim Health Care,"4,0","0,0",-1
+Nonprofit, Healthcare,Sanford Health,"4,0","4,0",0
+Nonprofit, Medical,Camden Coalition of Healthcare Providers,"4,0","12,0",-0.6666666666666667
+Real Estate, Brokers,Wyse Home Team Realty,"4,0","52,0",-0.9230769230769231
+Real Estate, Development & Management,Jones Lang LaSalle,"4,0","12,0",-0.6666666666666667
+Real Estate, Investment Trust,Uniti,"4,0","2,0",1
+Real Estate, Management,Blanton Turner,"4,0","12,0",-0.6666666666666667
+Retail, Online,Overstock.com,"4,0",,-1
+Retail," Shoes, Accessories and Apparel",American Eagle Outfitters,"4,0",,-1
+Retail," Shoes, Accessories and Apparel",Columbia Sportswear,"4,0","8,0",-0.5
+Services, Other,Uno Assignment Help,"4,0","6,0",-0.33333333333333337
+Technology, B2B Tech Services,Cognizant,"4,0","2,0",1
+Technology, B2B Tech Services,Cubic Corporation,"4,0","0,0",-1
+Technology, B2B Tech Services,Leidos,"4,0","5,0",-0.19999999999999996
+Technology, B2B Tech Services,MPAY,"4,0","0,0",-1
+Technology, B2B Tech Services,Quantcast,"4,0","8,0",-0.5
+Technology, B2B Tech Services,Sirius Computer Solutions,"4,0","8,0",-0.5
+Technology, Consumer Internet,Ibotta,"4,0","0,0",-1
+Technology, Consumer Internet,ON Semiconductor,"4,0","2,0",1
+Technology, Consumer Internet,Travelzoo,"4,0","0,0",-1
+Technology, Consumer Internet,Zillow,"4,0","2,0",1
+Technology, Software,Anant Corporation,"4,0","2,0",1
+Technology, Software,"ExamSoft Worldwide, Inc.","4,0","12,0",-0.6666666666666667
+Technology, Software,Juice Analytics,"4,0","0,0",-1
+Technology, Software,Mode Mobile,"4,0","8,0",-0.5
+Technology, Software,"Sulzer US, LLC","4,0","12,0",-0.6666666666666667
+Technology, Software,SurveyGizmo,"4,0",,-1
+Transportation, Freight & Logistics,Echo Global Logistics,"4,0","4,0",0
+Transportation, Freight & Logistics,UniGroup,"4,0","0,0",-1
+Retail, Discount Store,Sprouts Farmers Market,"3,5","5,5",-0.36363636363636365
+Automotive, Dealers,Young Automotive Group,"3,0","12,0",-0.75
+Business Services, Staffing & Outsourcing,Rochester Telemessaging Center,"3,0","12,0",-0.75
+Consumer Packaged Goods, Beverages,Boston Beer Company,"3,0","10,0",-0.7
+Consumer Packaged Goods, Packaged Foods, Braum's Ice Cream & Dairy Store,"3,0","1,0",2
+Educational Services, College & Universities,Colorado State University,"3,0","9,0",-0.6666666666666667
+Educational Services, Other,Savvas Learning Company,"3,0","12,0",-0.75
+Finance, Asset Management,Golub Capital,"3,0","0,0",-1
+Government, Federal,Los Alamos National Laboratory,"3,0","12,0",-0.75
+Information Services, Technology,Equian,"3,0","3,0",0
+Information Services, Technology,Lloyd Group,"3,0","0,0",-1
+Insurance, Health,Centene Corporation,"3,0","7,5",-0.6
+Insurance, Health,Kaiser Permanente,"3,0","3,0",0
+Natural Resources, Electric Power Generation,NextEra Energy,"3,0","9,0",-0.6666666666666667
+Nonprofit, Research,The Leukemia & Lymphoma Society,"3,0","9,0",-0.6666666666666667
+Retail, Online,Custom Ink,"3,0","8,0",-0.625
+Retail, Other,Accent Decor,"3,0","12,0",-0.75
+Technology, B2B Tech Services,CACI International,"3,0","9,0",-0.6666666666666667
+Technology, Software,"Calabrio, Inc.","3,0","3,0",0
+Technology, Software,Coupa,"3,0","9,0",-0.6666666666666667
+Technology, Software,Instructure,"3,0","9,0",-0.6666666666666667
+Technology, Software,Signzy Technology Private Limited,"3,0","3,0",0
+Transportation, Couriers & Delivery,UPS,"3,0","8,0",-0.625
+Healthcare, Hospitals & Clinics,Denver Health Medical Center,"2,5","10,5",-0.7619047619047619
+Business Services, Food & Hospitality,Aramark,"2,0","10,0",-0.8
+Business Services, Other,SmithBucklin,"2,0","10,0",-0.8
+Business Services, Staffing & Outsourcing,Concurrent HRO,"2,0","2,0",0
+Business Services, Staffing & Outsourcing,Hays PLC,"2,0",,-1
+Business Services, Staffing & Outsourcing,Norwin Technologies,"2,0","0,0",-1
+Educational Services, College & Universities,Dartmouth College,"2,0","8,0",-0.75
+Educational Services, College & Universities,Johns Hopkins University Applied Physics Laboratory,"2,0","26,0",-0.9230769230769231
+Educational Services, E-Learning,360DigiTMG,"2,0","4,0",-0.5
+Educational Services, Management,Teachstone,"2,0","12,0",-0.8333333333333334
+Electronics, Manufacturing,Armada Technologies,"2,0","10,0",-0.8
+Electronics, Manufacturing,Samsung Electronics,"2,0","12,0",-0.8333333333333334
+Finance, Diversified,CAPTRUST,"2,0","14,0",-0.8571428571428572
+Government, State,Commonwealth of Massachusetts,"2,0","24,0",-0.9166666666666666
+Healthcare, Animal Health,Zoetis,"2,0","0,0",-1
+Healthcare, Hospitals & Clinics,Children's Hospital of Pittsburgh of UPMC,"2,0","10,0",-0.8
+Healthcare, Hospitals & Clinics,Trinity Health System,"2,0",,-1
+Healthcare, Hospitals & Clinics,University of Pittsburgh Medical Center,"2,0","6,0",-0.6666666666666667
+Hospitality, Hotels,Rosewood Hotels & Resorts,"2,0","0,0",-1
+Industrial, Appliances & Furniture,Stanley Black & Decker,"2,0","16,0",-0.875
+Industrial, Diversified,HDR,"2,0","8,0",-0.75
+Industrial, Engineering,Quiddity Engineering,"2,0","6,0",-0.6666666666666667
+Industrial, Engineering,WSP Global,"2,0","12,0",-0.8333333333333334
+Information Services, Diversified,Wolters Kluwer,"2,0","6,0",-0.6666666666666667
+Information Services, Technology,General Dynamics Information Technology,"2,0","19,0",-0.8947368421052632
+Information Services, Technology,Smarsh,"2,0","4,0",-0.5
+Insurance, Brokerage,USI Insurance Services,"2,0","10,0",-0.8
+Insurance, Diversified,MJ Insurance,"2,0","10,0",-0.8
+Insurance, Property & Casualty,IAT Insurance Group,"2,0","12,0",-0.8333333333333334
+Insurance, Property & Casualty,Selective Insurance,"2,0","12,0",-0.8333333333333334
+Insurance, Property & Casualty,Travelers,"2,0","8,0",-0.75
+Media, Diversified,Quartz,"2,0","0,0",-1
+Media, News,Gannett,"2,0","12,0",-0.8333333333333334
+Natural Resources, Diversified Energy,CLEAResult,"2,0","10,0",-0.8
+Natural Resources, Oilfield Services,"National Oilwell Varco, Inc.","2,0",,-1
+Natural Resources, Renewables & Environment,American Water,"2,0","0,0",-1
+Nonprofit, Civic & Social,uAspire,"2,0","20,0",-0.9
+Retail, Electronics,Crutchfield,"2,0","20,0",-0.9
+Retail, Furniture & Home Improvement,Floor & Decor,"2,0","6,0",-0.6666666666666667
+Retail, General Merchandise,Petco,"2,0","52,0",-0.9615384615384616
+Retail, Supermarket Company,Publix Super Markets,"2,0","6,5",-0.6923076923076923
+Technology, B2B Tech Services,"DMI, Inc.","2,0","6,0",-0.6666666666666667
+Technology, Financial Services,Personal Capital,"2,0","0,0",-1
+Technology, Manufacturing,Garmin,"2,0","12,0",-0.8333333333333334
+Technology, Software,Druva,"2,0",,-1
+Technology, Software,Epic Systems,"2,0","11,0",-0.8181818181818181
+Technology, Software,ePublishing,"2,0","2,0",0
+Technology, Software,Mad Mobile,"2,0","10,0",-0.8
+Technology, Software,NextGen Healthcare,"2,0","12,0",-0.8333333333333334
+Technology, Software,panOpen,"2,0","0,0",-1
+Technology, Software,Praxent,"2,0","2,0",0
+Transportation, Couriers & Delivery,FedEx,"2,0","28,0",-0.9285714285714286
+Transportation, Freight & Logistics,C.H. Robinson,"2,0","6,0",-0.6666666666666667
+Transportation, Freight & Logistics,Fedex Supply Chain,"2,0",,-1
+Government, Contractor,Peraton,"1,5","12,0",-0.875
+Information Services, Technology,Infosys,"1,5","1,0",0.5
+Business Services, Staffing & Outsourcing,Kforce,"1,0","0,0",-1
+Business Services, Staffing & Outsourcing,Marketsource,"1,0","11,0",-0.9090909090909091
+Educational Services, School,Austin Independent School District,"1,0",,-1
+Hospitality, Foodservice Distributors,Gordon Food Service,"1,0","0,0",-1
+Industrial, Diversified,Jacobs,"1,0","8,0",-0.875
+Industrial, Equipment Manufacturing,Weir ESCO,"1,0","12,0",-0.9166666666666666
+Insurance, Property & Casualty,Auto-Owners Insurance,"1,0",,-1
+Media, Entertainment,Cinemark,"1,0","12,0",-0.9166666666666666
+Nonprofit, Museums,"MOXI, The Wolf Museum of Exploration + Innovation","1,0","12,0",-0.9166666666666666
+Technology, Consumer Internet,Divercity,"1,0","1,0",0
+Technology, Manufacturing,Infineon Technologies,"1,0",,-1
+Technology, Software,Detechtion Technologies,"1,0","4,0",-0.75
+Technology, Software,Kajabi,"1,0","12,0",-0.9166666666666666
+Automotive, Parts Manufacturing,"Donaldson Company, Inc.","0,0","12,0",-1
+Business Services, Food & Hospitality,Compass Group PLC,"0,0",,-1
+Business Services, Security,247 Private Security,"0,0","0,0",-1
+Business Services, Staffing & Outsourcing,24-7 Intouch,"0,0",,-1
+Business Services, Staffing & Outsourcing,S.i. Systems,"0,0",,-1
+Educational Services, College & Universities,Bryant University,"0,0","6,0",-1
+Educational Services, College & Universities,The University of Vermont,"0,0","12,0",-1
+Educational Services, Management,Round Rock ISD,"0,0",,-1
+Electronics, Manufacturing,Belden,"0,0","12,0",-1
+Finance, Asset Management,American Endowment Foundation,"0,0","12,0",-1
+Government, County,Los Angeles County,"0,0","12,0",-1
+Government, Federal,Corporation for National and Community Service,"0,0","0,0",-1
+Government, Federal,U.S. Department of Education,"0,0","12,0",-1
+Healthcare, Family Care,BAYADA,"0,0",,-1
+Healthcare, Hospitals & Clinics,Aurora Health Care,"0,0","12,0",-1
+Healthcare, Hospitals & Clinics,Children's Wisconsin,"0,0","12,0",-1
+Healthcare, Hospitals & Clinics,Lovelace Health System,"0,0","6,0",-1
+Healthcare, Hospitals & Clinics,Montefiore Medical Center,"0,0",,-1
+Healthcare, Hospitals & Clinics,Moses Cone,"0,0",,-1
+Healthcare, Hospitals & Clinics,Nemours,"0,0",,-1
+Healthcare, Hospitals & Clinics,Northwell Health,"0,0","12,0",-1
+Healthcare, Hospitals & Clinics,ProMedica,"0,0",,-1
+Healthcare, Hospitals & Clinics,Temple University Hospital,"0,0","12,0",-1
+Healthcare, Hospitals & Clinics,Texas Children's Hospital,"0,0","0,0",-1
+Healthcare, Hospitals & Clinics,"Universal Health Services, Inc.","0,0","12,0",-1
+Healthcare, Hospitals & Clinics,University Hospitals,"0,0",,-1
+Healthcare, Medical Devices,"NxStage Medical, Inc.","0,0",,-1
+Hospitality, Restaurants,Red Robin,"0,0","12,0",-1
+Industrial, Building Materials Manufacturing,Daltile,"0,0","12,0",-1
+Industrial, Construction Company,American Bridge Company,"0,0",,-1
+Information Services, Technology,Wisetech Global,"0,0",,-1
+Insurance, Health,Anthem,"0,0","6,0",-1
+Natural Resources, Agriculture and Food Processing,Bunge North America,"0,0","6,0",-1
+Natural Resources, Agrochemical,CHS Inc.,"0,0","16,0",-1
+Natural Resources, Chemicals,LyondellBasell,"0,0","12,0",-1
+Nonprofit, Civic & Social,Project Renewal,"0,0","0,0",-1
+Nonprofit, Healthcare,The Task Force For Global Health,"0,0","12,0",-1
+Nonprofit, Religious,Roman Catholic Archdiocese of Philadelphia,"0,0","12,0",-1
+Nonprofit, Trade Organization,SPEEA,"0,0",,-1
+Retail, Convenience Store,Trader Joe�s,"0,0",,-1
+Retail," Shoes, Accessories and Apparel",Uniqlo,"0,0","0,0",-1
+Retail, Supermarket Company,Food Lion,"0,0",,-1
+Services, Daycare,Bright Horizons,"0,0",,-1
+Services, Other,Industrious,"0,0","4,0",-1
+Services, Waste Management,"Clean Harbors, Inc.","0,0","12,0",-1
+Technology, B2B Tech Services,SHI International Corp.,"0,0",,-1
+Technology, Software,Red Hat,"0,0","0,0",-1
+Technology, Software,Thryv,"0,0","3,0",-1
+Transportation, Freight & Logistics,Schneider National,"0,0",,-1
