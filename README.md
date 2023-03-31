@@ -51,6 +51,10 @@ M MIN/MAX/AVR of unpaid weeks =
 ```
 But then I chose to umpivot the fact table and use a mask combination with measures for a better visualization of the data in the visual, so I created the separate measures and added them in layers in the matrix visual:
 
+Unpivoted table:
+
+![unPivotedTable](unPivotedTable.png)
+
 ```dax
 M averaaa = FORMAT(AVERAGEA('dPivotedParentalLeave'[Value]),"##.#")
 ```
