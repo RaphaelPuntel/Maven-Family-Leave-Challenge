@@ -69,3 +69,8 @@ M minium = MIN('dPivotedParentalLeave'[Value])
 ![Maven Family Leave Challenge-2.png](https://github.com/RaphaelYves/Maven-Family-Leave-Challenge/blob/main/Maven%20Family%20Leave%20Challenge-2.png?raw=true)
 ![Maven Family Leave Challenge-2.png](https://github.com/RaphaelYves/Maven-Family-Leave-Challenge/blob/main/Maven%20Family%20Leave%20Challenge-3.png?raw=true)
 <p align="center">Desenvolvido por <a href="https://github.com/RaphaelPuntel">Raphael Puntel ♠️</a></p>
+
+<p align="center">You can get in touch with me on my LinkedIn Profile:<br></a></p>
+<p align="center"> <a href = ""https://www.linkedin.com/in/raphael-yves-12348b223/""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+
