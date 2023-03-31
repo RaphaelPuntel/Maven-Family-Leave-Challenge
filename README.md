@@ -71,6 +71,6 @@ M minium = MIN('dPivotedParentalLeave'[Value])
 <p align="center">Desenvolvido por <a href="https://github.com/RaphaelPuntel">Raphael Puntel ♠️</a></p>
 
 <p align="center">You can get in touch with me on my LinkedIn Profile:<br></a></p>
-<p align="center"> <a href = ""https://www.linkedin.com/in/raphael-yves-12348b223/""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<p align="center"> <a href = "https://www.linkedin.com/in/raphael-yves-12348b223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
